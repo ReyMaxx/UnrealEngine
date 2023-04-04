@@ -1,4 +1,4 @@
-# Lo basico
+# Lo basico54
 
 ## **Condiciones de servicio de Discord**
 
