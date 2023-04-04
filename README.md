@@ -5,10 +5,6 @@
 <details><summary> Alternar desplegar todos los atajos para acceder al contenido mostrado en está pagina.</summary>
 
 ```101.``` **Inicio del archivo** | [Click izquierdo para abrir, CTRL + C para copiar.](https://rip.omg.lol/#unreal-engine-y-el-desarrollo-de-videojuegos)
-
-<p>
-
-</p>
 </details>
 
 ## `Serie de pasos para comenzar en Unreal Engine.`
