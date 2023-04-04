@@ -20,7 +20,7 @@
 
 `A104.` **Recursos utíles** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ](https://rip.omg.lol/#recursos-ut%C3%ADles)
 
-`A104.` **Estilos de juegos y ejemplos** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣  ⁣ ⁣ ⁣ ⁣](https://rip.omg.lol/#estilos-de-juegos-y-ejemplos)
+`A105.` **Géneros de juegos y ejemplos** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣ ⁣ ⁣](https://rip.omg.lol/#g%C3%A9neros-de-juegos-y-ejemplos)
 
 ```diff
 - Aquí debajo de este mensaje se mostrara en forma de lista toda la información utíl que está pagina tiene para ofrecer.
@@ -138,4 +138,48 @@
 + Estos recursos pueden no estár disponibles en el momento que leas esto, si es así puedes buscarlos externamente.
 ```
 
-## `Estilos de juegos y ejemplos`
+## `Géneros de juegos y ejemplos`
+
+  - `E001` ⁣ ⁣ ⁣⁣  **Acción**: Los juegos de acción se centran en la lucha y la exploración. Ejemplos: "God of War", "Devil May Cry", "Assassin's Creed".
+
+  - `E002` ⁣ ⁣ ⁣⁣  **Aventura**: Los juegos de aventuras se centran en la exploración y la resolución de puzzles en un mundo detallado y a menudo con una narrativa profunda. Ejemplos: "The Legend of Zelda", "Tomb Raider", "Uncharted".
+
+  - `E003` ⁣ ⁣ ⁣⁣   **Estrategia en tiempo real (RTS)**: Los juegos de estrategia en tiempo real requieren que los jugadores construyan y administren una base o ejército en tiempo real mientras luchan contra enemigos. Ejemplos: "Starcraft", "Age of Empires", "Command and Conquer".
+
+  - `E004` ⁣ ⁣ ⁣⁣   **Estrategia por turnos (TBS)**: Los juegos de estrategia por turnos permiten a los jugadores tomar turnos para planificar y ejecutar su estrategia. Ejemplos: "Civilization", "XCOM", "Heroes of Might and Magic".
+
+  - `E005` ⁣ ⁣ ⁣⁣   **Rol**: Los juegos de rol (RPG) permiten a los jugadores crear y personalizar personajes en un mundo ficticio y asumir su papel. Ejemplos: "Final Fantasy", "The Elder Scrolls", "World of Warcraft".
+
+  - `E006` ⁣ ⁣ ⁣⁣   **Plataforma**: Los juegos de plataformas se centran en saltar y esquivar obstáculos mientras se avanza a través de un nivel. Ejemplos: "Super Mario Bros", "Sonic the Hedgehog", "Rayman".
+
+  - `E007` ⁣ ⁣ ⁣⁣   **Simulación**: Los juegos de simulación permiten a los jugadores asumir el papel de un personaje y vivir su vida diaria en un mundo ficticio. Ejemplos: "The Sims", "SimCity", "RollerCoaster Tycoon".
+
+  - `E008` ⁣ ⁣ ⁣⁣   **Carreras**: Los juegos de carreras se centran en la velocidad y la competición mientras los jugadores compiten para llegar primero a la línea de meta. Ejemplos: "Need for Speed", "Gran Turismo", "Forza".
+
+  - `E009` ⁣ ⁣ ⁣⁣   **Deportes**: Los juegos deportivos permiten a los jugadores recrear deportes populares en un entorno virtual. Ejemplos: "FIFA", "Madden NFL", "NBA 2K".
+
+  - `E010` ⁣ ⁣ ⁣⁣   **Lucha**: Los juegos de lucha se centran en el combate mano a mano entre personajes. Ejemplos: "Street Fighter", "Mortal Kombat", "Tekken".
+
+  - `E011` ⁣ ⁣ ⁣⁣   **Horror de supervivencia**: Los juegos de horror de supervivencia se centran en la supervivencia en un entorno de terror. Ejemplos: "Resident Evil", "Silent Hill", "The Evil Within".
+
+  - `E012` ⁣ ⁣ ⁣⁣   **Sandbox**: Los juegos de sandbox permiten a los jugadores explorar y experimentar en un mundo abierto sin un objetivo específico. Ejemplos: "Minecraft", "Terraria", "Grand Theft Auto".
+
+  - `E013` ⁣ ⁣ ⁣⁣   **Juegos de cartas**: Los juegos de cartas se centran en la estrategia y la gestión de recursos a través del uso de cartas. Ejemplos: "Hearthstone", "Magic: The Gathering", "Yu-Gi-Oh!".
+
+  - `E014` ⁣ ⁣ ⁣⁣   **Juegos de palabras**: Los juegos de palabras se centran en la resolución de acertijos o la creación de palabras a partir de letras disponibles. Ejemplos: "Scrabble", "Words with Friends", "Boggle".
+
+  - `E015` ⁣ ⁣ ⁣⁣   **Juegos musicales**: Los juegos musicales se centran en la interpretación de música a través de la utilización de una controladora o un dispositivo móvil. Ejemplos: "Guitar Hero", "Rock Band", "Dance Dance Revolution".
+
+  - `E016` ⁣ ⁣ ⁣⁣   **Juegos de realidad virtual (VR)**: Los juegos de realidad virtual permiten a los jugadores sumergirse en un mundo virtual y controlar el juego con movimientos corporales. Ejemplos: "Beat Saber", "Job Simulator", "Half-Life: Alyx".
+
+  - `E017` ⁣ ⁣ ⁣⁣   **Juegos de disparos en primera persona (FPS)**: Los juegos de disparos en primera persona se centran en la acción y la lucha armada en un entorno en 3D. Ejemplos: "Doom", "Halo", "Call of Duty".
+
+  - `E018` ⁣ ⁣ ⁣⁣   **Juegos de disparos en tercera persona**: Los juegos de disparos en tercera persona también se centran en la acción y la lucha armada, pero se muestran desde una perspectiva de tercera persona. Ejemplos: "Gears of War", "Max Payne", "Tom Clancy's Ghost Recon".
+
+  - `E019` ⁣ ⁣ ⁣⁣   **Juegos educativos**: Los juegos educativos se centran en la enseñanza de habilidades específicas, como matemáticas o ciencias, a través de juegos interactivos. Ejemplos: "Math Blaster", "Reader Rabbit", "Oregon Trail".
+
+  - `E020` ⁣ ⁣ ⁣⁣   **Juegos de sigilo**: Los juegos de sigilo se centran en la evasión y el sigilo para avanzar a través de niveles, evitando enemigos y trampas. Ejemplos: "Metal Gear Solid", "Hitman", "Thief".
+
+```diff
++ Puedes buscar estos genéros de videojuegos para poder encontrar una descripción mas detallada.
+```
