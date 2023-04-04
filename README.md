@@ -4,7 +4,6 @@
 <details><summary>Serie de pasos para comenzar en Unreal Engine.</summary>
 <p>
 
-#### 
 > **1**. Descarga e instala Unreal Engine.
 
 > **2**. Abre el editor de Unreal Engine.
