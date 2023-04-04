@@ -27,6 +27,8 @@
 
 `A107.` **Programas de diseño para tu videojuego** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣⁣  ⁣ ⁣⁣  ⁣ ⁣ ⁣ ⁣ ⁣⁣  ⁣⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣](https://rip.omg.lol/#programas-de-dise%C3%B1o-para-tu-videojuego)
 
+`A108.` **Lugares para encontrar y componer música** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣⁣  ⁣⁣ ⁣⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣](https://rip.omg.lol/#lugares-para-encontrar-y-componer-m%C3%BAsica)
+
 ```diff
 - Aquí debajo de este mensaje se mostrara en forma de lista toda la información utíl que está pagina tiene para ofrecer.
 ```
@@ -280,3 +282,49 @@
 ```diff
 - Estos programas pueden no estár disponibles en el momento que leas esto, si es así puedes buscarlos externamente
 ```
+
+## `Lugares para encontrar y componer música`
+
+  - `M101` ⁣ ⁣ ⁣⁣   [**Bandcamp**](https://bandcamp.com/): una plataforma de música en línea que permite a los artistas independientes compartir y vender su música. Puedes encontrar una amplia variedad de géneros musicales aquí, y es probable que encuentres algo que se adapte a la atmósfera de tu juego.
+
+  - `M102` ⁣ ⁣ ⁣⁣   [**AudioJungle**](https://audiojungle.net/): un mercado en línea que ofrece una gran variedad de música y efectos de sonido de alta calidad. La música aquí está especialmente diseñada para su uso en proyectos creativos, como videojuegos.
+
+  - `M103` ⁣ ⁣ ⁣⁣   [**Epidemic Sound**](https://www.epidemicsound.com/): una biblioteca de música en línea que ofrece música libre de derechos para su uso en proyectos creativos, como videojuegos. Aquí puedes encontrar música de diferentes géneros y estilos.
+
+  - `M104` ⁣ ⁣ ⁣⁣   [**Marmoset**](https://marmoset.com/): una plataforma de música y sonido en línea que ofrece música de alta calidad y efectos de sonido para su uso en videojuegos, películas y otros proyectos creativos.
+
+  - `M105` ⁣ ⁣ ⁣⁣   [**Unity Asset Store**](https://assetstore.unity.com/): una tienda en línea que ofrece recursos para el desarrollo de juegos, incluyendo música y efectos de sonido. Puedes buscar y comprar música que se ajuste a la atmósfera de tu juego aquí.
+
+  - `M106` ⁣ ⁣ ⁣⁣   [**GarageBand**](https://garagebandonpc.com/) - una aplicación de software de música para Mac que permite a los usuarios crear y grabar música de forma sencilla. Puedes utilizar esta herramienta para crear música original para tu juego.
+
+  - `M107` ⁣ ⁣ ⁣⁣   [**FL Studio**](https://www.flstudio.com/) - un software de producción musical que te permite crear y grabar música en tu ordenador. Este programa es muy popular entre los músicos y productores de música electrónica.
+
+  - `M108` ⁣ ⁣ ⁣⁣   [**Reason**](https://reasonstudios.com/) - un software de producción musical que te permite crear música utilizando una variedad de instrumentos virtuales y herramientas de efectos. Puedes crear música original para tu juego utilizando esta herramienta.
+
+  - `M109` ⁣ ⁣ ⁣⁣   [**Ableton Live**](https://www.ableton.com/) - un software de producción musical que te permite crear y grabar música en tiempo real. Este programa es popular entre los músicos y productores de música electrónica y puede ser utilizado para crear música original para tu juego.
+
+```diff
++ Recomendamos comprobar antes de utilizar una canción si tiene o no Copyright para prevenir cualquier inconveniente.
+```
+
+## `Series y documentales sobre el desarrollo de videojuegos"
+
+  - `SD101` ⁣ ⁣ ⁣⁣   Indie Game: The Movie - Documental que sigue a varios desarrolladores independientes en el proceso de creación de sus juegos.
+
+  - `SD102` ⁣ ⁣ ⁣⁣   The Game Makers: Inside Story: Serie documental que explora el proceso creativo detrás de algunos de los juegos más populares del mundo.
+
+  - `SD103` ⁣ ⁣ ⁣⁣   High Score: Serie documental que examina la historia de los videojuegos, desde sus inicios hasta la actualidad.
+
+  - `SD104` ⁣ ⁣ ⁣⁣   Double Fine Adventure: Documental que sigue a los desarrolladores de Double Fine Productions mientras trabajan en el juego Broken Age.
+
+  - `SD105` ⁣ ⁣ ⁣⁣   Playing Hard: Documental que sigue a un equipo de desarrolladores mientras crean el juego For Honor.
+
+  - `SD106` ⁣ ⁣ ⁣⁣   Minecraft: The Story of Mojang: Documental que examina la creación y el éxito del juego Minecraft.
+
+  - `SD107` ⁣ ⁣ ⁣⁣   The Art of Playing: Serie documental que explora la relación entre los videojuegos y la cultura popular.
+
+  - `SD108` ⁣ ⁣ ⁣⁣   Super Game Jam: Serie documental que sigue a dos desarrolladores mientras trabajan juntos para crear un juego en un corto período de tiempo.
+
+  - `SD109` ⁣ ⁣ ⁣⁣   Level Up: Documental que explora la historia y el futuro de los videojuegos.
+
+  - `SD110` ⁣ ⁣ ⁣⁣   The Making of Grand Theft Auto V: Documental que examina el proceso de creación detrás del juego Grand Theft Auto V.
