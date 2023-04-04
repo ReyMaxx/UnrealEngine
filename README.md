@@ -20,6 +20,8 @@
 
 `A104.` **Recursos utíles** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ](https://rip.omg.lol/#recursos-ut%C3%ADles)
 
+`A104.` **Estilos de juegos y ejemplos** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣  ⁣ ⁣ ⁣ ⁣](https://rip.omg.lol/#estilos-de-juegos-y-ejemplos)
+
 ```diff
 - Aquí debajo de este mensaje se mostrara en forma de lista toda la información utíl que está pagina tiene para ofrecer.
 ```
@@ -87,7 +89,7 @@
  - `P129` ⁣ ⁣ ⁣⁣ **Aprende a optimizar tu juego para mejorar el rendimiento y reducir los tiempos de carga.**
 
 ```diff
-Todos estos pasos no tienen ningún orden, son simplemente una lista de cosas utíles para aprender.
++ Todos estos pasos no tienen ningún orden, son simplemente una lista de cosas utíles para aprender.
 ```
 
 ## `Atajos de teclado para Unreal Engine.`
@@ -113,7 +115,7 @@ Todos estos pasos no tienen ningún orden, son simplemente una lista de cosas ut
  - `AT110` ⁣ ⁣ ⁣⁣  **Buscar y reemplazar: `Ctrl + Shift + F`. Este atajo de teclado abre la ventana de búsqueda y reemplazo para buscar cualquier palabra o frase en todo el proyecto.**
 
 ```diff
-Estos atajos de teclado solo podrán ser utíles en Unreal Engine, podrán variar en cualquier otro programa.
++ Estos atajos de teclado solo podrán ser utíles en Unreal Engine, podrán variar en cualquier otro programa.
 ```
 
 ## `Recursos utíles`
@@ -133,5 +135,7 @@ Estos atajos de teclado solo podrán ser utíles en Unreal Engine, podrán varia
   - `R007` ⁣ ⁣ ⁣⁣   [**Unreal Engine Wiki**](https://unrealcommunity.wiki/): El Wiki de Unreal Engine es una fuente de información de referencia para los desarrolladores de Unreal Engine. Aquí puedes encontrar documentación técnica, tutoriales, guías y más.
 
 ```diff
-Estos recursos pueden no estár disponibles en el momento que leas esto, si es así puedes buscarlos externamente.
++ Estos recursos pueden no estár disponibles en el momento que leas esto, si es así puedes buscarlos externamente.
 ```
+
+## `Estilos de juegos y ejemplos`
