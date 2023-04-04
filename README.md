@@ -1,11 +1,23 @@
 - # `Unreal Engine y el desarrollo de videojuegos.`
   - En este repositorio se mostrará diferentes enlaces utíles, consejos para poder aprender ya siendo un desarrollador novato o un desarrollador experto, información utíl para todo tipo de personas, basicamente una biblioteca llena de cosas de utilidad.
   - Toda está información se encuentra almacenada públicamente en un repositorio de [Github](https://github.com/), el cual puede ser accedido [aqui](https://github.com/ReyMaxx/UnrealEngine).
+<div>
+</div>
+<div>
+</div>
+<div>
+</div>
+<div>
+</div>
+<space>
 
-<details><summary> Alternar desplegar todos los atajos para acceder al contenido mostrado en está pagina.</summary>
+```diff
++ Aquí debajo tendrás todos los atajos para acceder al contenido mostrado en está pagina.
+```
 
-```101.``` **Inicio del archivo** | [Click izquierdo para abrir, CTRL + C para copiar.](https://rip.omg.lol/#unreal-engine-y-el-desarrollo-de-videojuegos)
-</details>
+```101.``` **Inicio del archivo** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.](https://rip.omg.lol/#unreal-engine-y-el-desarrollo-de-videojuegos)
+
+```102.``` **Serie de pasos para comenzar en Unreal Engine** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.](https://rip.omg.lol/#serie-de pasos-para-comenzar-en-unreal-engine)
 
 ## `Serie de pasos para comenzar en Unreal Engine.`
 
