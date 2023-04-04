@@ -29,6 +29,8 @@
 
 `A108.` **Lugares para encontrar y componer música** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣⁣  ⁣⁣ ⁣⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣](https://rip.omg.lol/#lugares-para-encontrar-y-componer-m%C3%BAsica)
 
+`A109.` **Documentales del desarrollo de videojuegos** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣  ⁣⁣ ⁣ ⁣ ⁣⁣  ⁣⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣](https://rip.omg.lol/#documentales-sobre-el-desarrollo-de-videojuegos)
+
 ```diff
 - Aquí debajo de este mensaje se mostrara en forma de lista toda la información utíl que está pagina tiene para ofrecer.
 ```
@@ -307,7 +309,7 @@
 + Recomendamos comprobar antes de utilizar una canción si tiene o no Copyright para prevenir cualquier inconveniente.
 ```
 
-## `Series y documentales sobre el desarrollo de videojuegos"
+## `Documentales del desarrollo de videojuegos`
 
   - `SD101` ⁣ ⁣ ⁣⁣   Indie Game: The Movie - Documental que sigue a varios desarrolladores independientes en el proceso de creación de sus juegos.
 
@@ -328,3 +330,7 @@
   - `SD109` ⁣ ⁣ ⁣⁣   Level Up: Documental que explora la historia y el futuro de los videojuegos.
 
   - `SD110` ⁣ ⁣ ⁣⁣   The Making of Grand Theft Auto V: Documental que examina el proceso de creación detrás del juego Grand Theft Auto V.
+
+```diff
+- Varios documentales pueden no estár disponibles gratuitamente para todo el mundo y necesitaran de una subscripción.
+```
