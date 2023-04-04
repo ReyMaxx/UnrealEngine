@@ -10,7 +10,9 @@
 
 `A102.` **Serie de pasos para comenzar en Unreal Engine** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.](https://rip.omg.lol/#serie-de-pasos-para-comenzar-en-unreal-engine)
 
-`A103.` **Atajos de teclado para Unreal Engine** | [Click izquierdo para abrir, click derecho copiar dirección para copiar. ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣⁣](https://rip.omg.lol/#atajos-de-teclado-para-unreal-engine)
+`A103.` **Atajos de teclado para Unreal Engine** | [Click izquierdo para abrir, click derecho copiar dirección para copiar. ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣⁣](https://rip.omg.lol/#atajos-de-teclado-para-unreal-engine)
+
+`A104.` **Recursos utíles** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ](https://rip.omg.lol/#recursos-ut%C3%ADles)
 
 ```diff
 - Aquí debajo de este mensaje se mostrara en forma de lista toda la información utíl que está pagina tiene para ofrecer.
@@ -123,3 +125,7 @@ Estos atajos de teclado solo podrán ser utíles en Unreal Engine, podrán varia
   - `R006` ⁣ ⁣ ⁣⁣   [**Unreal Engine AnswerHub**](https://forums.unrealengine.com/categories?tag=unreal-engine): El AnswerHub de Unreal Engine es un foro de preguntas y respuestas donde los desarrolladores pueden hacer preguntas técnicas y obtener respuestas de otros desarrolladores.
 
   - `R007` ⁣ ⁣ ⁣⁣   [**Unreal Engine Wiki**](https://unrealcommunity.wiki/): El Wiki de Unreal Engine es una fuente de información de referencia para los desarrolladores de Unreal Engine. Aquí puedes encontrar documentación técnica, tutoriales, guías y más.
+
+```diff
+Estos recursos pueden no estár disponibles en el momento que leas esto, si es así puedes buscarlos externamente.
+```
