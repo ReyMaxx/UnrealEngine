@@ -10,6 +10,8 @@
 
 `A102.` **Serie de pasos para comenzar en Unreal Engine** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.](https://rip.omg.lol/#serie-de-pasos-para-comenzar-en-unreal-engine)
 
+`A103.` **Atajos de teclado para Unreal Engine** | [Click izquierdo para abrir, click derecho copiar dirección para copiar. ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣⁣](https://rip.omg.lol/#atajos-de-teclado-para-unreal-engine)
+
 ```diff
 - Aquí debajo de este mensaje se mostrara en forma de lista toda la información utíl que está pagina tiene para ofrecer.
 ```
@@ -75,3 +77,33 @@
   - `P129` ⁣ ⁣ ⁣⁣ **Aprende a crear y utilizar efectos de postprocesamiento en tiempo real con el sistema de postprocesamiento de Unreal Engine.**
 
   - `P130` ⁣ ⁣ ⁣⁣ **Aprende a optimizar tu juego para mejorar el rendimiento y reducir los tiempos de carga.**
+
+```diff
+Todos estos pasos no tienen ningún orden, son simplemente una lista de cosas utíles para aprender.
+```
+
+- ## `Atajos de teclado para Unreal Engine.`
+
+  - `AT101` ⁣ ⁣ ⁣⁣  **Guardar todo: `Ctrl + Shift + S`. Este atajo de teclado guarda todos los cambios realizados en el proyecto.**
+
+  - `AT102` ⁣ ⁣ ⁣⁣  **Compilar el proyecto: `F7`. Este atajo compila el proyecto y muestra los errores de compilación si los hay.**
+
+  - `AT103` ⁣ ⁣ ⁣⁣  **Ejecutar el proyecto: `F8`. Este atajo de teclado ejecuta el proyecto actual.**
+
+  - `AT104` ⁣ ⁣ ⁣⁣  **Guardar una vista previa de la cámara: `Ctrl + 0-9`. Este atajo de teclado guarda una vista previa de la cámara actual en una de las teclas de acceso directo del 0 al 9.**
+
+  - `AT105` ⁣ ⁣ ⁣⁣  **Mostrar / ocultar la barra lateral de contenido: `Tab`. Este atajo de teclado muestra u oculta la barra lateral de contenido en el editor.**
+
+  - `AT106` ⁣ ⁣ ⁣⁣  **Mostrar / ocultar la barra de herramientas de nivel: `Shift + 1`. Este atajo de teclado muestra u oculta la barra de herramientas de nivel.**
+
+  - `AT107` ⁣ ⁣ ⁣⁣  **Alinear objetos: `Ctrl + Alt + arrastrar`. Este atajo de teclado alinea los objetos en el eje seleccionado al arrastrarlos.**
+
+  - `AT108` ⁣ ⁣ ⁣⁣  **Copiar y pegar objetos: `Ctrl + C y Ctrl + V`. Estos atajos de teclado copian y pegan objetos seleccionados.**
+
+  - `AT109` ⁣ ⁣ ⁣⁣  **Deshacer y rehacer: `Ctrl + Z y Ctrl + Y`. Estos atajos de teclado deshacen y rehacen los cambios realizados en el proyecto.**
+
+  - `AT110` ⁣ ⁣ ⁣⁣  **Buscar y reemplazar: `Ctrl + Shift + F`. Este atajo de teclado abre la ventana de búsqueda y reemplazo para buscar cualquier palabra o frase en todo el proyecto.**
+
+```diff
+Estos atajos de teclado solo podrán ser utíles en Unreal Engine, podrán variar en cualquier otro programa.
+```
