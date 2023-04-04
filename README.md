@@ -24,7 +24,7 @@
 - Aquí debajo de este mensaje se mostrara en forma de lista toda la información utíl que está pagina tiene para ofrecer.
 ```
 
-## `Serie de pasos para comenzar en Unreal Engine.`
+## `Serie de pasos para comenzar en Unreal Engine`
 
  - `P101` ⁣ ⁣ ⁣⁣ **Descarga e instala Unreal Engine.** 
    - `P101.2` ⁣ ⁣ ⁣⁣ **Puedes instalarlo de forma completamente gratuita en [está pagina](https://www.unrealengine.com/en-US/download).** 
@@ -90,7 +90,7 @@
 + Todos estos pasos no tienen ningún orden, son simplemente una lista de cosas utíles para aprender.
 ```
 
-## `Atajos de teclado para Unreal Engine.`
+## `Atajos de teclado para Unreal Engine`
 
  - `AT101` ⁣ ⁣ ⁣⁣  **Guardar todo: `Ctrl + Shift + S`. Este atajo de teclado guarda todos los cambios realizados en el proyecto.**
 
@@ -118,22 +118,22 @@
 
 ## `Recursos utíles`
 
-  - `R001` ⁣ ⁣ ⁣⁣   [**Documentación oficial de Unreal Engine**](https://docs.unrealengine.com/5.1/en-US/): La documentación oficial de Unreal Engine es una de las mejores fuentes de información sobre el motor de juego. Aquí puedes encontrar tutoriales, guías, documentación técnica, solución de problemas y mucho más.
+  - `R001` ⁣ ⁣ ⁣⁣   [**Documentación oficial de Unreal Engine**](https://docs.unrealengine.com/5.1/en-US/) - La documentación oficial de Unreal Engine es una de las mejores fuentes de información sobre el motor de juego. Aquí puedes encontrar tutoriales, guías, documentación técnica, solución de problemas y mucho más.
 
-  - `R002` ⁣ ⁣ ⁣⁣   [**YouTube**](https://www.youtube.com): Hay muchos canales de YouTube dedicados a Unreal Engine que ofrecen tutoriales, demostraciones y consejos para los desarrolladores. Algunos de los canales más populares incluyen Epic Games, Virtus Learning Hub y Mathew Wadstein.
+  - `R002` ⁣ ⁣ ⁣⁣   [**YouTube**](https://www.youtube.com) - Hay muchos canales de YouTube dedicados a Unreal Engine que ofrecen tutoriales, demostraciones y consejos para los desarrolladores. Algunos de los canales más populares incluyen Epic Games, Virtus Learning Hub y Mathew Wadstein.
 
-  - `R003` ⁣ ⁣ ⁣⁣   [**Marketplace de Unreal Engine**](https://www.unrealengine.com/marketplace/en-US/store?sessionInvalidated=true): El Marketplace de Unreal Engine es una tienda en línea donde puedes encontrar recursos como paquetes de contenido, materiales, efectos visuales y herramientas para mejorar tu proyecto de Unreal Engine.
+  - `R003` ⁣ ⁣ ⁣⁣   [**Marketplace de Unreal Engine**](https://www.unrealengine.com/marketplace/en-US/store?sessionInvalidated=true) - El Marketplace de Unreal Engine es una tienda en línea donde puedes encontrar recursos como paquetes de contenido, materiales, efectos visuales y herramientas para mejorar tu proyecto de Unreal Engine.
 
-  - `R004` ⁣ ⁣ ⁣⁣   [**Reddit**](https://www.reddit.com/): El subreddit de Unreal Engine es una comunidad activa donde los desarrolladores comparten sus proyectos, preguntan y responden preguntas, y discuten sobre diferentes aspectos de Unreal Engine.
+  - `R004` ⁣ ⁣ ⁣⁣   [**Reddit**](https://www.reddit.com/) - El subreddit de Unreal Engine es una comunidad activa donde los desarrolladores comparten sus proyectos, preguntan y responden preguntas, y discuten sobre diferentes aspectos de Unreal Engine.
 
-  - `R005` ⁣ ⁣ ⁣⁣   [**Unreal Slackers**](https://unrealslackers.org/): Unreal Slackers es una comunidad de desarrolladores de Unreal Engine que se unen en Slack para discutir problemas, compartir ideas y ayudarse mutuamente.
+  - `R005` ⁣ ⁣ ⁣⁣   [**Unreal Slackers**](https://unrealslackers.org/) - Unreal Slackers es una comunidad de desarrolladores de Unreal Engine que se unen en Slack para discutir problemas, compartir ideas y ayudarse mutuamente.
 
-  - `R006` ⁣ ⁣ ⁣⁣   [**Unreal Engine AnswerHub**](https://forums.unrealengine.com/categories?tag=unreal-engine): El AnswerHub de Unreal Engine es un foro de preguntas y respuestas donde los desarrolladores pueden hacer preguntas técnicas y obtener respuestas de otros desarrolladores.
+  - `R006` ⁣ ⁣ ⁣⁣   [**Unreal Engine AnswerHub**](https://forums.unrealengine.com/categories?tag=unreal-engine) - El AnswerHub de Unreal Engine es un foro de preguntas y respuestas donde los desarrolladores pueden hacer preguntas técnicas y obtener respuestas de otros desarrolladores.
 
-  - `R007` ⁣ ⁣ ⁣⁣   [**Unreal Engine Wiki**](https://unrealcommunity.wiki/): El Wiki de Unreal Engine es una fuente de información de referencia para los desarrolladores de Unreal Engine. Aquí puedes encontrar documentación técnica, tutoriales, guías y más.
+  - `R007` ⁣ ⁣ ⁣⁣   [**Unreal Engine Wiki**](https://unrealcommunity.wiki/) - El Wiki de Unreal Engine es una fuente de información de referencia para los desarrolladores de Unreal Engine. Aquí puedes encontrar documentación técnica, tutoriales, guías y más.
 
 ```diff
-+ Estos recursos pueden no estár disponibles en el momento que leas esto, si es así puedes buscarlos externamente.
+- Estos recursos pueden no estár disponibles en el momento que leas esto, si es así puedes buscarlos externamente.
 ```
 
 ## `Géneros de juegos y ejemplos`
@@ -180,4 +180,28 @@
 
 ```diff
 + Puedes buscar estos genéros de videojuegos para poder encontrar una descripción mas detallada.
+```
+
+## `Otros motores graficos para videojuegos`
+
+  - `MG101`⁣  ⁣⁣    [**Unity**](https://unity.com/) - Un motor de juego multiplataforma que se utiliza para crear juegos en 2D y 3D.
+
+  - `MG102` ⁣ ⁣⁣    [**GameMaker Studio**](https://gamemaker.io/) - Una herramienta popular para crear juegos en 2D.
+
+  - `MG103` ⁣ ⁣⁣⁣    [**RPG Maker**](https://www.rpgmakerweb.com/) - Una herramienta que permite a los desarrolladores crear juegos de rol (RPG) en 2D.
+
+  - `MG104` ⁣ ⁣⁣⁣    [**Construct**](https://www.construct.net/en) - Una herramienta para crear juegos en 2D sin necesidad de codificar.
+
+  - `MG105` ⁣ ⁣ ⁣⁣   [**Godot**](https://godotengine.org/) - Un motor de juego gratuito y de código abierto que permite crear juegos en 2D y 3D.
+
+  - `MG106` ⁣⁣ ⁣⁣    [**CryEngine**](https://www.cryengine.com/) - Un motor de juego utilizado para crear juegos de alta calidad en 3D.
+
+  - `MG107` ⁣ ⁣⁣⁣    [**Corona SDK**](https://coronalabs.com/) - Una plataforma para crear juegos en 2D y aplicaciones móviles.
+
+  - `MG108` ⁣ ⁣ ⁣⁣   [**Stencyl**](https://www.stencyl.com/) - Una herramienta que permite a los desarrolladores crear juegos en 2D sin necesidad de codificar.
+
+  - `MG109` ⁣ ⁣ ⁣⁣   [**Clickteam Fusion**](https://www.clickteam.com/clickteam-fusion-2-5) - Una herramienta para crear juegos en 2D y aplicaciones multimedia.
+
+```diff
+- Estos motores pueden no estár disponibles en el momento que leas esto, si es así puedes buscarlos externamente
 ```
