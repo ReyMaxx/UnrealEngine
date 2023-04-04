@@ -276,6 +276,7 @@
   - `D107` ⁣ ⁣ ⁣⁣   [**Substance Painter**](https://store.steampowered.com/app/2199970/Substance_3D_Painter_2023/): Un programa de texturizado 3D que te permite crear texturas de alta calidad para tus modelos 3D.
 
   - `D108` ⁣ ⁣ ⁣⁣   [**Trello**](https://trello.com/home): Una herramienta de gestión de proyectos que te permite organizar tus ideas y tareas para el desarrollo de tu juego.
+
 ```diff
 - Estos programas pueden no estár disponibles en el momento que leas esto, si es así puedes buscarlos externamente
 ```
