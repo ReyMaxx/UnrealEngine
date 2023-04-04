@@ -1,7 +1,7 @@
 - # `Unreal Engine y el desarrollo de videojuegos.`
   - En este repositorio se mostrará diferentes enlaces utíles, consejos para poder aprender ya siendo un desarrollador novato o un desarrollador experto, información utíl para todo tipo de personas, basicamente una biblioteca llena de cosas de utilidad.
   - Toda está información se encuentra almacenada públicamente en un repositorio de [Github](https://github.com/), el cual puede ser accedido [aqui](https://github.com/ReyMaxx/UnrealEngine).
-  - <details><summary> Presiona aquí para desplegar todos los atajos para acceder al contenido mostrado en [está](https://rip.omg.lol/) pagina.</summary>
+  - <details><summary> Presiona aquí para desplegar todos los atajos para acceder al contenido mostrado en está pagina.</summary>
 <p>
 
 </p>
