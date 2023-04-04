@@ -2,6 +2,14 @@
   - En este repositorio se mostrará diferentes enlaces utíles, consejos para poder aprender ya siendo un desarrollador novato o un desarrollador experto, información utíl para todo tipo de personas, basicamente una biblioteca llena de cosas de utilidad.
   - Toda está información se encuentra almacenada públicamente en un repositorio de [Github](https://github.com/), el cual puede ser accedido [aqui](https://github.com/ReyMaxx/UnrealEngine).
 
+<details><summary>Créditos y creadores de está pagina y proyecto.</summary>
+<p>
+
+La información de este proyecto fue extraida utilizando la inteligencia artificial de OpenAI y fue organizada y separada por ReyMax y WazaOficial.
+
+</p>
+</details>
+
 ```diff
 + Aquí debajo tendrás todos los atajos para acceder al contenido mostrado en está pagina.
 ```
@@ -78,7 +86,7 @@
 
  - `P128` ⁣ ⁣ ⁣⁣ **Aprende a crear y utilizar efectos de postprocesamiento en tiempo real con el sistema de postprocesamiento de Unreal Engine.**
 
- - `P139` ⁣ ⁣ ⁣⁣ **Aprende a optimizar tu juego para mejorar el rendimiento y reducir los tiempos de carga.**
+ - `P129` ⁣ ⁣ ⁣⁣ **Aprende a optimizar tu juego para mejorar el rendimiento y reducir los tiempos de carga.**
 
 ```diff
 Todos estos pasos no tienen ningún orden, son simplemente una lista de cosas utíles para aprender.
