@@ -107,3 +107,19 @@ Todos estos pasos no tienen ningún orden, son simplemente una lista de cosas ut
 ```diff
 Estos atajos de teclado solo podrán ser utíles en Unreal Engine, podrán variar en cualquier otro programa.
 ```
+
+## `Recursos utíles`
+
+  - `R001` ⁣ ⁣ ⁣⁣   [**Documentación oficial de Unreal Engine**](https://docs.unrealengine.com/5.1/en-US/): La documentación oficial de Unreal Engine es una de las mejores fuentes de información sobre el motor de juego. Aquí puedes encontrar tutoriales, guías, documentación técnica, solución de problemas y mucho más.
+
+  - `R002` ⁣ ⁣ ⁣⁣   [**YouTube**](https://www.youtube.com): Hay muchos canales de YouTube dedicados a Unreal Engine que ofrecen tutoriales, demostraciones y consejos para los desarrolladores. Algunos de los canales más populares incluyen Epic Games, Virtus Learning Hub y Mathew Wadstein.
+
+  - `R003` ⁣ ⁣ ⁣⁣   [**Marketplace de Unreal Engine**](https://www.unrealengine.com/marketplace/en-US/store?sessionInvalidated=true): El Marketplace de Unreal Engine es una tienda en línea donde puedes encontrar recursos como paquetes de contenido, materiales, efectos visuales y herramientas para mejorar tu proyecto de Unreal Engine.
+
+  - `R004` ⁣ ⁣ ⁣⁣   [**Reddit**](https://www.reddit.com/): El subreddit de Unreal Engine es una comunidad activa donde los desarrolladores comparten sus proyectos, preguntan y responden preguntas, y discuten sobre diferentes aspectos de Unreal Engine.
+
+  - `R005` ⁣ ⁣ ⁣⁣   [**Unreal Slackers**](https://unrealslackers.org/): Unreal Slackers es una comunidad de desarrolladores de Unreal Engine que se unen en Slack para discutir problemas, compartir ideas y ayudarse mutuamente.
+
+  - `R006` ⁣ ⁣ ⁣⁣   [**Unreal Engine AnswerHub**](https://forums.unrealengine.com/categories?tag=unreal-engine): El AnswerHub de Unreal Engine es un foro de preguntas y respuestas donde los desarrolladores pueden hacer preguntas técnicas y obtener respuestas de otros desarrolladores.
+
+  - `R007` ⁣ ⁣ ⁣⁣   [**Unreal Engine Wiki**](https://unrealcommunity.wiki/): El Wiki de Unreal Engine es una fuente de información de referencia para los desarrolladores de Unreal Engine. Aquí puedes encontrar documentación técnica, tutoriales, guías y más.
