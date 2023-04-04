@@ -22,6 +22,9 @@
 
 `A105.` **Otros motores graficos para videojuegos** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣  ⁣ ⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣](https://rip.omg.lol/#otros-motores-gr%C3%A1ficos-para-videojuegos)
 
+
+`A106.` **Consejos para desarrolladores** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣  ⁣ ⁣⁣ ⁣ ⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣  ⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣  ⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣](https://rip.omg.lol/#consejos-para-desarrolladores)
+
 ```diff
 - Aquí debajo de este mensaje se mostrara en forma de lista toda la información utíl que está pagina tiene para ofrecer.
 ```
@@ -206,4 +209,50 @@
 
 ```diff
 - Estos motores pueden no estár disponibles en el momento que leas esto, si es así puedes buscarlos externamente
+```
+
+## `Consejos para desarrolladores`
+
+  - `C101` ⁣ ⁣ ⁣⁣    **Aprende y mejora tus habilidades constantemente. Los videojuegos están en constante evolución, así que es importante estar al día con las últimas tendencias y tecnologías.**
+
+  - `C102` ⁣ ⁣ ⁣⁣    **Ten en cuenta a tu audiencia y asegúrate de que tu juego sea accesible y atractivo para ellos.**
+
+  - `C103` ⁣ ⁣ ⁣⁣    **Establece metas y objetivos claros para tu juego, y trabaja en equipo para alcanzarlos.**
+
+  - `C104` ⁣ ⁣ ⁣⁣    **Diseña el juego para que sea divertido, pero también para que sea desafiante y mantenga al jugador comprometido.**
+
+  - `C105` ⁣ ⁣ ⁣⁣    **Prueba tu juego de manera rigurosa y asegúrate de que sea lo más estable posible antes de lanzarlo al mercado.**
+
+  - `C106` ⁣ ⁣ ⁣⁣    **Escucha los comentarios y críticas constructivas de los jugadores, y utiliza esta información para mejorar tu juego.**
+
+  - `C107` ⁣ ⁣ ⁣⁣    **Trabaja en la historia y el diseño de los personajes, y asegúrate de que sean coherentes y atractivos.**
+
+  - `C108` ⁣ ⁣ ⁣⁣    **Elige una buena mecánica de juego que se ajuste a tu historia y objetivos.**
+
+  - `C109` ⁣ ⁣ ⁣⁣    **Utiliza recursos visuales atractivos, como gráficos, efectos de sonido y música.**
+
+  - `C110` ⁣ ⁣ ⁣⁣    **Asegúrate de que tu juego tenga un equilibrio adecuado entre la dificultad y la recompensa.**
+
+  - `C111` ⁣ ⁣ ⁣⁣    **Realiza pruebas de usabilidad para garantizar que tu juego sea fácil de jugar.**
+
+  - `C112` ⁣ ⁣ ⁣⁣    **Considera la integración de características en línea, como el multijugador, para mejorar la experiencia de juego.**
+
+  - `C113` ⁣ ⁣ ⁣⁣    **Trabaja en la optimización de tu juego para que funcione en diferentes dispositivos y sistemas operativos.**
+
+  - `C114` ⁣ ⁣ ⁣⁣    **Sé original en tu diseño y no copies a otros juegos.**
+
+  - `C115` ⁣ ⁣ ⁣⁣    **Mantén un buen equilibrio entre el trabajo y el descanso para evitar el agotamiento y la fatiga.**
+
+  - `C116` ⁣ ⁣ ⁣⁣    **Mantén una buena comunicación con tu equipo de desarrollo para evitar problemas y retrasos.**
+
+  - `C117` ⁣ ⁣ ⁣⁣    **Aprende a aceptar el fracaso y los errores como parte del proceso de aprendizaje y mejora.**
+
+  - `C118` ⁣ ⁣ ⁣⁣    **Aprovecha las herramientas y recursos disponibles para tu desarrollo, como motores de juego y bibliotecas de gráficos.**
+
+  - `C119` ⁣ ⁣ ⁣⁣    **Mantén una actitud positiva y persevera incluso cuando las cosas se pongan difíciles.**
+
+  - `C120` ⁣ ⁣ ⁣⁣    **Celebra tus éxitos y logros con tu equipo y la comunidad de jugadores.**
+
+```diff
++ Estos consejos pueden no ser utíles para todo el mundo y funcionar para solo ciertas personas.
 ```
