@@ -14,16 +14,18 @@
 
 `A101.` **Serie de pasos para comenzar en Unreal Engine** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.](https://rip.omg.lol/#serie-de-pasos-para-comenzar-en-unreal-engine)
 
-`A102.` **Atajos de teclado para Unreal Engine** | [Click izquierdo para abrir, click derecho copiar dirección para copiar. ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣⁣](https://rip.omg.lol/#atajos-de-teclado-para-unreal-engine)
+`A102.` **Atajos de teclado para Unreal Engine** | [Click izquierdo para abrir, click derecho copiar dirección para copiar. ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣⁣](https://rip.omg.lol/#atajos-de-teclado-para-unreal-engine)
 
-`A103.` **Recursos utíles** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ](https://rip.omg.lol/#recursos-ut%C3%ADles)
+`A103.` **Recursos utíles** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ](https://rip.omg.lol/#recursos-ut%C3%ADles)
 
-`A104.` **Géneros de juegos y ejemplos** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣ ⁣ ⁣](https://rip.omg.lol/#g%C3%A9neros-de-juegos-y-ejemplos)
+`A104.` **Géneros de juegos y ejemplos** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣ ⁣ ⁣](https://rip.omg.lol/#g%C3%A9neros-de-juegos-y-ejemplos)
 
-`A105.` **Otros motores graficos para videojuegos** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣  ⁣ ⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣](https://rip.omg.lol/#otros-motores-gr%C3%A1ficos-para-videojuegos)
+`A105.` **Otros motores graficos para videojuegos** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣  ⁣ ⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣](https://rip.omg.lol/#otros-motores-gr%C3%A1ficos-para-videojuegos)
 
 
-`A106.` **Consejos para desarrolladores** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣  ⁣ ⁣⁣ ⁣ ⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣  ⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣  ⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣](https://rip.omg.lol/#consejos-para-desarrolladores)
+`A106.` **Consejos para desarrolladores** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣  ⁣ ⁣⁣ ⁣ ⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣  ⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣  ⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣⁣ ⁣ ⁣ ⁣ ⁣](https://rip.omg.lol/#consejos-para-desarrolladores)
+
+`A107.` **Programas de diseño para tu videojuego** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣⁣  ⁣ ⁣⁣  ⁣ ⁣ ⁣ ⁣ ⁣⁣  ⁣⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣](https://rip.omg.lol/#programas-de-dise%C3%B1o-para-tu-videojuego)
 
 ```diff
 - Aquí debajo de este mensaje se mostrara en forma de lista toda la información utíl que está pagina tiene para ofrecer.
@@ -255,4 +257,25 @@
 
 ```diff
 + Estos consejos pueden no ser utíles para todo el mundo y funcionar para solo ciertas personas.
+```
+
+## `Programas de diseño para tu videojuego`
+
+  - `D101` ⁣ ⁣ ⁣⁣   [**Sketch**](https://www.sketch.com/): Una herramienta de diseño digital que te permite crear bocetos de tu juego en una tableta o dispositivo móvil.
+
+  - `D102` ⁣ ⁣ ⁣⁣   [**Adobe Photoshop**](https://www.adobe.com/): Un programa de diseño gráfico que te permite crear y editar imágenes de alta calidad para tu juego.
+
+  - `D103` ⁣ ⁣ ⁣⁣   [**Adobe Illustrator**](https://www.adobe.com/): Un programa de diseño vectorial que te permite crear gráficos y diseños de alta calidad para tu juego.
+
+  - `D104` ⁣ ⁣ ⁣⁣   [**Inkscape**](https://inkscape.org/): Un programa de diseño vectorial gratuito y de código abierto similar a Adobe Illustrator.
+
+  - `D105` ⁣ ⁣ ⁣⁣   [**Blender**](https://www.blender.org/): Un programa de modelado y animación 3D gratuito y de código abierto que te permite crear personajes y objetos en 3D para tu juego.
+
+  - `D106` ⁣ ⁣ ⁣⁣   [**Maya**](https://www.autodesk.com/products/maya/overview): Un programa de modelado y animación 3D profesional utilizado por muchos estudios de desarrollo de juegos.
+
+  - `D107` ⁣ ⁣ ⁣⁣   [**Substance Painter**](https://store.steampowered.com/app/2199970/Substance_3D_Painter_2023/): Un programa de texturizado 3D que te permite crear texturas de alta calidad para tus modelos 3D.
+
+  - `D108` ⁣ ⁣ ⁣⁣   [**Trello**](https://trello.com/home): Una herramienta de gestión de proyectos que te permite organizar tus ideas y tareas para el desarrollo de tu juego.
+```diff
+- Estos programas pueden no estár disponibles en el momento que leas esto, si es así puedes buscarlos externamente
 ```
