@@ -31,6 +31,8 @@
 
 `A109.` **Documentales del desarrollo de videojuegos** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣  ⁣⁣ ⁣ ⁣ ⁣⁣  ⁣⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣](https://rip.omg.lol/#documentales-sobre-el-desarrollo-de-videojuegos)
 
+`A110.` **Datos interesantes sobre Unreal Engine 5** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣  ⁣⁣ ⁣⁣ ⁣  ⁣ ⁣⁣ ⁣  ⁣⁣ ⁣  ⁣⁣ ⁣  ⁣ ⁣⁣  ⁣⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣](https://rip.omg.lol/#datos-interesantes-sobre-unreal-engine-5)
+
 ```diff
 - Aquí debajo de este mensaje se mostrara en forma de lista toda la información utíl que está pagina tiene para ofrecer.
 ```
@@ -311,26 +313,43 @@
 
 ## `Documentales del desarrollo de videojuegos`
 
-  - `SD101` ⁣ ⁣ ⁣⁣   Indie Game: The Movie - Documental que sigue a varios desarrolladores independientes en el proceso de creación de sus juegos.
+  - `SD101` ⁣ ⁣ ⁣⁣   **Indie Game**: The Movie - Documental que sigue a varios desarrolladores independientes en el proceso de creación de sus juegos.
 
-  - `SD102` ⁣ ⁣ ⁣⁣   The Game Makers: Inside Story: Serie documental que explora el proceso creativo detrás de algunos de los juegos más populares del mundo.
+  - `SD102` ⁣ ⁣ ⁣⁣   **The Game Makers**: Inside Story: Serie documental que explora el proceso creativo detrás de algunos de los juegos más populares del mundo.
 
-  - `SD103` ⁣ ⁣ ⁣⁣   High Score: Serie documental que examina la historia de los videojuegos, desde sus inicios hasta la actualidad.
+  - `SD103` ⁣ ⁣ ⁣⁣   **High Score**: Serie documental que examina la historia de los videojuegos, desde sus inicios hasta la actualidad.
 
-  - `SD104` ⁣ ⁣ ⁣⁣   Double Fine Adventure: Documental que sigue a los desarrolladores de Double Fine Productions mientras trabajan en el juego Broken Age.
+  - `SD104` ⁣ ⁣ ⁣⁣   **Double Fine Adventure**: Documental que sigue a los desarrolladores de Double Fine Productions mientras trabajan en el juego Broken Age.
 
-  - `SD105` ⁣ ⁣ ⁣⁣   Playing Hard: Documental que sigue a un equipo de desarrolladores mientras crean el juego For Honor.
+  - `SD105` ⁣ ⁣ ⁣⁣   **Playing Hard**: Documental que sigue a un equipo de desarrolladores mientras crean el juego For Honor.
 
-  - `SD106` ⁣ ⁣ ⁣⁣   Minecraft: The Story of Mojang: Documental que examina la creación y el éxito del juego Minecraft.
+  - `SD106` ⁣ ⁣ ⁣⁣   **Minecraft**: The Story of Mojang: Documental que examina la creación y el éxito del juego Minecraft.
 
-  - `SD107` ⁣ ⁣ ⁣⁣   The Art of Playing: Serie documental que explora la relación entre los videojuegos y la cultura popular.
+  - `SD107` ⁣ ⁣ ⁣⁣   **The Art of Playing**: Serie documental que explora la relación entre los videojuegos y la cultura popular.
 
-  - `SD108` ⁣ ⁣ ⁣⁣   Super Game Jam: Serie documental que sigue a dos desarrolladores mientras trabajan juntos para crear un juego en un corto período de tiempo.
+  - `SD108` ⁣ ⁣ ⁣⁣   **Super Game Jam**: Serie documental que sigue a dos desarrolladores mientras trabajan juntos para crear un juego en un corto período de tiempo.
 
-  - `SD109` ⁣ ⁣ ⁣⁣   Level Up: Documental que explora la historia y el futuro de los videojuegos.
+  - `SD109` ⁣ ⁣ ⁣⁣   **Level Up**: Documental que explora la historia y el futuro de los videojuegos.
 
-  - `SD110` ⁣ ⁣ ⁣⁣   The Making of Grand Theft Auto V: Documental que examina el proceso de creación detrás del juego Grand Theft Auto V.
+  - `SD110` ⁣ ⁣ ⁣⁣   **The Making of Grand Theft Auto V**: Documental que examina el proceso de creación detrás del juego Grand Theft Auto V.
 
 ```diff
 - Varios documentales pueden no estár disponibles gratuitamente para todo el mundo y necesitaran de una subscripción.
+```
+
+## `Datos interesantes sobre Unreal Engine 5`
+
+  - `DI101` ⁣ ⁣ ⁣⁣   **La versión beta de Unreal Engine 5 se lanzó en julio de 2021.**
+  - `DI102` ⁣ ⁣ ⁣⁣   **La tecnología de renderizado de Unreal Engine 5 se llama Nanite, que permite la renderización de geometría de alta calidad en tiempo real.**
+  - `DI103` ⁣ ⁣ ⁣⁣   **Unreal Engine 5 admite la tecnología de iluminación global Lumen, que proporciona una iluminación dinámica en tiempo real.**
+  - `DI104` ⁣ ⁣ ⁣⁣   **La nueva versión de Unreal Engine también presenta mejoras significativas en la herramienta de modelado de terreno.**
+  - `DI105` ⁣ ⁣ ⁣⁣   **Unreal Engine 5 admite el trazado de rayos y ofrece una amplia gama de características y herramientas para trabajar con esta tecnología.**
+  - `DI106` ⁣ ⁣ ⁣⁣   **La nueva versión de Unreal Engine presenta mejoras en el sistema de animación, incluida la captura de movimiento en tiempo real.**
+  - `DI107` ⁣ ⁣ ⁣⁣   **Unreal Engine 5 admite la integración de captura facial de alta fidelidad.**
+  - `DI108` ⁣ ⁣ ⁣⁣   **La nueva versión de Unreal Engine también presenta mejoras en la herramienta de programación visual Blueprint.**
+  - `DI109` ⁣ ⁣ ⁣⁣   **Unreal Engine 5 es compatible con una amplia gama de plataformas, incluidas PC, consolas y dispositivos móviles.**
+  - `DI110` ⁣ ⁣ ⁣⁣   **Unreal Engine 5 introduce una nueva característica llamada MetaHuman Creator, que permite a los desarrolladores crear personajes digitales de alta fidelidad en cuestión de minutos. MetaHuman Creator utiliza tecnología de captura de movimiento y aprendizaje automático para crear modelos 3D realistas y detallados de personas virtuales.**
+
+```diff
++ Algunos de estos datos interesantes sobre Unreal Engine 5 pueden serte utíles más adelante para muchas cosas.
 ```
