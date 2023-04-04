@@ -10,6 +10,10 @@
 
 `A102.` **Serie de pasos para comenzar en Unreal Engine** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.](https://rip.omg.lol/#serie-de-pasos-para-comenzar-en-unreal-engine)
 
+```diff
+- Aquí debajo de este mensaje se mostrara en forma de lista toda la información utíl que está pagina tiene para ofrecer.
+```
+
 - ## `Serie de pasos para comenzar en Unreal Engine.`
 
   - `P101` ⁣ ⁣ ⁣⁣ **Descarga e instala Unreal Engine.** 
