@@ -1,8 +1,7 @@
 # `Unreal Engine y el desarrollo de videojuegos.`
 > En este repositorio se mostrará diferentes enlaces utíles, consejos para poder aprender ya siendo un desarrollador novato o un desarrollador experto, información utíl para todo tipo de personas, basicamente una biblioteca llena de cosas de utilidad.
 
-<details><summary>Serie de pasos para comenzar en Unreal Engine.</summary>
-<p>
+## `Serie de pasos para comenzar en Unreal Engine.`
 
 > **1**. Descarga e instala Unreal Engine.
 
@@ -63,5 +62,3 @@
 > **29**. Aprende a crear y utilizar efectos de postprocesamiento en tiempo real con el sistema de postprocesamiento de Unreal Engine.
 
 > **30**. Aprende a optimizar tu juego para mejorar el rendimiento y reducir los tiempos de carga.
-</p>
-</details>
