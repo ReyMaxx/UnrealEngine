@@ -26,7 +26,7 @@
 
 > **12**. Aprende cómo utilizar la lógica de programación para crear interacciones y eventos en tu juego.
 
-> **13*. Aprende a crear y utilizar Blueprints, que son bloques de construcción visuales que te permiten crear lógica de juego compleja sin necesidad de programar.
+> **13**. Aprende a crear y utilizar Blueprints, que son bloques de construcción visuales que te permiten crear lógica de juego compleja sin necesidad de programar.
 
 > **14**. Aprende a crear y utilizar interfaces de usuario (UI) para tu juego.
 
