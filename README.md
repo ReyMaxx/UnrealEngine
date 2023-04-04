@@ -6,7 +6,7 @@
 + Aquí debajo tendrás todos los atajos para acceder al contenido mostrado en está pagina.
 ```
 
-`101.` **Inicio del archivo** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.](https://rip.omg.lol/#unreal-engine-y-el-desarrollo-de-videojuegos)
+`101.` **Inicio del archivo** | [Click izquierdo para abrir, click derecho copiar dirección para copiar. ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣](https://rip.omg.lol/#unreal-engine-y-el-desarrollo-de-videojuegos)
 
 `102.` **Serie de pasos para comenzar en Unreal Engine** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.](https://rip.omg.lol/#serie-de-pasos-para-comenzar-en-unreal-engine)
 
