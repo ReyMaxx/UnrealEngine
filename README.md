@@ -17,7 +17,7 @@
 
 ```101.``` **Inicio del archivo** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.](https://rip.omg.lol/#unreal-engine-y-el-desarrollo-de-videojuegos)
 
-```102.``` **Serie de pasos para comenzar en Unreal Engine** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.](https://rip.omg.lol/#serie-de pasos-para-comenzar-en-unreal-engine)
+```102.``` **Serie de pasos para comenzar en Unreal Engine** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.](https://rip.omg.lol/#serie-de-pasos-para-comenzar-en-unreal-engine)
 
 ## `Serie de pasos para comenzar en Unreal Engine.`
 
