@@ -1,4 +1,4 @@
-# Repositorio oficial de ReyMax sobre Unreal Engine y la programación de videojuegos.
+# Repositorio oficial sobre Unreal Engine y el desarrollo de videojuegos.
 
 ## **Condiciones de servicio de Discord**
 
