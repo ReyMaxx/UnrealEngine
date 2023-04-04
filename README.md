@@ -1,7 +1,7 @@
-## `Unreal Engine y el desarrollo de videojuegos.`
+# `Unreal Engine y el desarrollo de videojuegos.`
 > En este repositorio se mostrará diferentes enlaces utíles, consejos para poder aprender ya siendo un desarrollador novato o un desarrollador experto, información utíl para todo tipo de personas, basicamente una biblioteca llena de cosas de utilidad.
 
-## Serie de pasos para comenzar en Unreal Engine.
+## `Serie de pasos para comenzar en Unreal Engine.`
 > 1. Descarga e instala Unreal Engine.
 > 2. Abre el editor de Unreal Engine.
 > 3. Crea un nuevo proyecto y selecciona el tipo de juego que deseas crear.
