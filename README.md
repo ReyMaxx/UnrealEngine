@@ -1,4 +1,4 @@
-# Repositorio oficial sobre Unreal Engine y el desarrollo de videojuegos.
+# Unreal Engine y el desarrollo de videojuegos.
 
 ## **Condiciones de servicio de Discord**
 
