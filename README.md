@@ -37,7 +37,7 @@
 
 `A112.` **Herramientas utíles en Unreal Engine 5** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣⁣ ⁣ ⁣ ⁣⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣  ⁣⁣ ⁣ ⁣ ⁣ ⁣⁣ ⁣⁣ ⁣  ⁣  ⁣⁣ ⁣  ⁣ ⁣⁣  ⁣⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣](https://ue5.rip.omg.lol/#herramientas-utíles-en-unreal-engine-5)
 
-`A113.` **Inteligencias artificiales para creación de texturas** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣⁣⁣](https://ue5.rip.omg.lol/#inteligencias-artificiales-para-la-creaci%C3%B3n-de-texturas)
+`A113.` **Inteligencias artificiales para creación de texturas** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣⁣⁣](https://ue5.rip.omg.lol/#inteligencias-artificiales-para-creaci%C3%B3n-de-texturas)
 
 `A114.` **Videojuegos inventados por la IA para dar ideas** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣ ⁣⁣ ⁣⁣⁣](https://ue5.rip.omg.lol/#videojuegos-inventados-por-la-ia-para-dar-ideas)
 
