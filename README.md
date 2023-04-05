@@ -43,6 +43,10 @@
 
 `A115.` **Lugares para promocionar tu videojuego** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣    ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣  ⁣⁣  ⁣ ⁣ ⁣⁣⁣](https://rip.omg.lol/#lugares-para-promocionar-tu-videojuego)
 
+`A116.` **Lugares para conseguir descargas o ventas** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣    ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣  ⁣⁣  ⁣ ⁣ ⁣⁣⁣](https://rip.omg.lol/#lugares-para-conseguir-descargas-o-ventas)
+
+`A117.` **Videojuegos exitosos, su género y de que tratan** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣⁣⁣](https://rip.omg.lol/#videojuegos-exitosos-su-género-y-de-que-tratan)
+
 ```diff
 - Aquí debajo de este mensaje se mostrara en forma de lista toda la información utíl que está pagina tiene para ofrecer.
 ```
@@ -462,3 +466,24 @@
   - `DV107` ⁣ ⁣ ⁣⁣   [**Microsoft Store**](https://www.microsoft.com/): Si estás desarrollando un juego para Xbox o Windows, la tienda oficial de Microsoft te ofrece una audiencia global de usuarios de estas plataformas.
   - `DV108` ⁣ ⁣ ⁣⁣   [**Nintendo eShop**](https://www.nintendo.es/): Si estás desarrollando un juego para Nintendo Switch, la tienda oficial de Nintendo te ofrece una audiencia global de usuarios de esta plataforma.
   - `DV109` ⁣ ⁣ ⁣⁣   [**PlayStation Store**](https://store.playstation.com/): Si estás desarrollando un juego para PlayStation, la tienda oficial de Sony te ofrece una audiencia global de usuarios de esta plataforma.
+
+```diff
+- Estas aplicaciones y sitios pueden tener diferentes criterios de aceptación para poder publicar tus videojuegos.
+```
+
+## `Videojuegos exitosos, su género y de que tratan`
+
+  - `VE101` ⁣ ⁣ ⁣⁣   **Fortnite**: Es un juego de acción en tercera persona y battle royale. Los jugadores luchan por ser el último superviviente en una isla, construyendo fortificaciones y recolectando recursos para mejorar su posición.
+  - `VE102` ⁣ ⁣ ⁣⁣   **Minecraft**: Es un juego de aventura y construcción en el que los jugadores pueden construir y explorar mundos infinitos generados por procedimientos. Los jugadores también pueden enfrentar desafíos y sobrevivir a enemigos.
+  - `VE103` ⁣ ⁣ ⁣⁣   **Grand Theft Auto V**: Es un juego de acción en tercera persona y mundo abierto. Los jugadores pueden explorar la ciudad de Los Santos y sus alrededores, realizar misiones, participar en carreras y luchar contra enemigos.
+  - `VE104` ⁣ ⁣ ⁣⁣   **Call of Duty**: Modern Warfare: Es un juego de disparos en primera persona. Los jugadores luchan contra enemigos en misiones de campaña para un solo jugador, y también pueden competir en línea en modos multijugador.
+  - `VE105` ⁣ ⁣ ⁣⁣   **League of Legends**: Es un juego de estrategia y batalla de arena en línea. Los jugadores controlan a un campeón y luchan contra el equipo contrario para destruir su base.
+  - `VE106` ⁣ ⁣ ⁣⁣   **Valorant**: Es un juego de disparos en primera persona con elementos de estrategia. Los jugadores forman equipos y luchan en partidas con objetivos específicos.
+  - `VE107` ⁣ ⁣ ⁣⁣   **Among Us**: Es un juego multijugador en línea en el que los jugadores trabajan juntos para reparar una nave espacial mientras intentan descubrir al impostor que está saboteando el trabajo en equipo.
+  - `VE108` ⁣ ⁣ ⁣⁣   **FIFA 22**: Es un juego de simulación de fútbol en el que los jugadores pueden controlar a su equipo favorito y competir en partidos en línea o fuera de línea.
+  - `VE109` ⁣ ⁣ ⁣⁣   **Assassin's Creed Valhalla**: Es un juego de acción y aventura en el que los jugadores controlan a Eivor, un vikingo que lucha contra los enemigos y explora el mundo del juego ambientado en la Inglaterra del siglo IX.
+  - `VE110` ⁣ ⁣ ⁣⁣   **Cyberpunk 2077**: Es un juego de rol de acción en el que los jugadores controlan a V, un mercenario que lucha en un futuro oscuro y peligroso de Night City, California. Los jugadores pueden personalizar a V y tomar decisiones que afectan el resultado del juego.
+
+```diff
++ No está garantizado que tu juego triunfe si copias a estos juegos, esta pensado para darte una idea de los géneros de moda.
+```
