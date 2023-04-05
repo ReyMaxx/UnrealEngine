@@ -47,6 +47,8 @@
 
 `A117.` **Videojuegos exitosos, su género y de que tratan** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣⁣⁣](https://rip.omg.lol/#videojuegos-exitosos-su-género-y-de-que-tratan)
 
+`A118.` **Las compañias de videojuegos más famosas** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣⁣⁣](https://rip.omg.lol/#las-compa%C3%B1ias-de-videojuegos-mas-famosas)
+
 ```diff
 - Aquí debajo de este mensaje se mostrara en forma de lista toda la información utíl que está pagina tiene para ofrecer.
 ```
@@ -557,7 +559,7 @@
 + No está garantizado que tu juego triunfe si copias a estos juegos, esta pensado para darte una idea de los géneros de moda.
 ```
 
-## `Algunas de las compañias de videojuegos mas famosas`
+## `Las compañias de videojuegos mas famosas`
 
   - `CV101` ⁣ ⁣ ⁣⁣   **Nintendo**: Fundada en 1889 por Fusajiro Yamauchi en Japón como una compañía de cartas. En la década de 1970, la compañía comenzó a explorar la industria de los videojuegos, lanzando su primera consola de videojuegos en 1983.
 
