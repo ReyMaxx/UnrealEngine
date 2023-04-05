@@ -41,6 +41,8 @@
 
 `A113.` **Videojuegos inventados por la IA para dar ideas** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣⁣⁣](https://rip.omg.lol/#videojuegos-inventados-por-la-ia-para-dar-ideas)
 
+`A113.` **Lugares para promocionar tu videojuego** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣    ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣  ⁣⁣  ⁣ ⁣ ⁣⁣⁣](https://rip.omg.lol/#lugares-para-promocionar-tu-videojuego)
+
 ```diff
 - Aquí debajo de este mensaje se mostrara en forma de lista toda la información utíl que está pagina tiene para ofrecer.
 ```
@@ -430,4 +432,21 @@
 
 ```diff
 + Estos videojuegos no existen, cualquier parecido con la realidad es mera coincidencia.
+```
+
+## `Lugares para promocionar tu videojuego`
+
+  - `PV110` ⁣ ⁣ ⁣⁣   [**Steam**](https://store.steampowered.com/): Es la plataforma de distribución de videojuegos más grande del mundo, por lo que es un lugar ideal para lanzar y promocionar tu juego.
+  - `PV110` ⁣ ⁣ ⁣⁣   [**Reddit**](https://www.reddit.com/): Es una comunidad en línea con millones de usuarios activos que discuten sobre una amplia variedad de temas, incluyendo videojuegos. Puedes unirte a subreddits de juegos específicos y compartir información sobre tu juego.
+  - `PV110` ⁣ ⁣ ⁣⁣   [**Twitch**](https://www.twitch.tv/): Es una plataforma de streaming en vivo de videojuegos que se ha convertido en una forma popular de promocionar nuevos títulos.
+  - `PV110` ⁣ ⁣ ⁣⁣   [**YouTube**](https://www.youtube.com/): Es una plataforma de videos en línea donde los desarrolladores pueden compartir trailers y gameplays de sus juegos.
+  - `PV110` ⁣ ⁣ ⁣⁣   [**Discord**](https://discord.com/): Es una plataforma de chat en línea muy popular entre los jugadores, que también puede utilizarse para promocionar juegos y unirse a comunidades de juegos específicos.
+  - `PV110` ⁣ ⁣ ⁣⁣   [**Twitter**](https://twitter.com/): Es una red social que permite a los desarrolladores de juegos interactuar directamente con los fans, compartir actualizaciones y anunciar lanzamientos.
+  - `PV110` ⁣ ⁣ ⁣⁣   [**Facebook**](https://www.facebook.com/): Es una plataforma de redes sociales donde los desarrolladores pueden crear páginas de juegos y anunciar nuevos lanzamientos y actualizaciones.
+  - `PV110` ⁣ ⁣ ⁣⁣   [**Instagram**](https://www.instagram.com/): Es una red social de fotos y videos que se utiliza para promocionar videojuegos y mostrar imágenes de arte y gameplay.
+  - `PV110` ⁣ ⁣ ⁣⁣   [**IndieDB**](https://www.indiedb.com/): Es una plataforma en línea centrada en juegos independientes, donde los desarrolladores pueden compartir información y promocionar sus juegos.
+  - `PV110` ⁣ ⁣ ⁣⁣   [**Game Jolt**](https://gamejolt.com/): Es una plataforma de distribución de juegos independientes donde los desarrolladores pueden subir y promocionar sus juegos de forma gratuita.
+
+```diff
+- Estos sitios Web probablemente no dejen de estár disponibles, pero si ese es el caso, investiga en internet.
 ```
