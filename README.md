@@ -450,3 +450,15 @@
 ```diff
 - Estos sitios Web probablemente no dejen de estár disponibles, pero si ese es el caso, investiga en internet.
 ```
+
+## `Lugares para conseguir descargas o ventas`
+
+  - `DV101` ⁣ ⁣ ⁣⁣   [**App Store**](https://www.apple.com/app-store/): Si estás desarrollando un juego para dispositivos móviles iOS, la App Store es la tienda oficial de aplicaciones de Apple y te proporciona una audiencia muy amplia.
+  - `DV102` ⁣ ⁣ ⁣⁣   [**Google Play**](https://play.google.com/store/games): Si estás desarrollando un juego para dispositivos móviles Android, Google Play es la tienda oficial de aplicaciones de Google y te permite llegar a una audiencia global de usuarios de Android.
+  - `DV103` ⁣ ⁣ ⁣⁣   [**Epic Games Store**](https://store.epicgames.com/es-MX/): Es una tienda de videojuegos en línea que ha ganado popularidad en los últimos años, especialmente después de ofrecer juegos gratuitos a sus usuarios.
+  - `DV104` ⁣ ⁣ ⁣⁣   [**GOG**](https://www.gog.com/): Es una plataforma en línea de distribución de videojuegos sin DRM que se centra en juegos clásicos y retro.
+  - `DV105` ⁣ ⁣ ⁣⁣   [**Humble Bundle**](https://www.humblebundle.com/): Es una plataforma que ofrece paquetes de juegos a precios reducidos y también te permite vender tu juego en su tienda en línea.
+  - `DV106` ⁣ ⁣ ⁣⁣   [**itch.io**](https://itch.io/): Es una plataforma de distribución de videojuegos que se centra en juegos independientes y ofrece una amplia audiencia de jugadores indie.
+  - `DV107` ⁣ ⁣ ⁣⁣   [**Microsoft Store**](https://www.microsoft.com/): Si estás desarrollando un juego para Xbox o Windows, la tienda oficial de Microsoft te ofrece una audiencia global de usuarios de estas plataformas.
+  - `DV108` ⁣ ⁣ ⁣⁣   [**Nintendo eShop**](https://www.nintendo.es/): Si estás desarrollando un juego para Nintendo Switch, la tienda oficial de Nintendo te ofrece una audiencia global de usuarios de esta plataforma.
+  - `DV109` ⁣ ⁣ ⁣⁣   [**PlayStation Store**](https://store.playstation.com/): Si estás desarrollando un juego para PlayStation, la tienda oficial de Sony te ofrece una audiencia global de usuarios de esta plataforma.
