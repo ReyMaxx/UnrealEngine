@@ -37,6 +37,9 @@
 
 `A112.` **Herramientas utíles en Unreal Engine 5** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣⁣ ⁣ ⁣ ⁣⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣  ⁣⁣ ⁣⁣ ⁣  ⁣ ⁣ ⁣ ⁣⁣ ⁣⁣ ⁣  ⁣  ⁣⁣ ⁣  ⁣ ⁣⁣  ⁣⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣](https://rip.omg.lol/#herramientas-utíles-en-unreal-engine-5)
 
+
+`A112.` **Inteligencias artificiales para creación de texturas** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣⁣⁣](inteligencias-artificiales-para-la-creaci%C3%B3n-de-texturas)
+
 ```diff
 - Aquí debajo de este mensaje se mostrara en forma de lista toda la información utíl que está pagina tiene para ofrecer.
 ```
@@ -395,4 +398,18 @@
 
 ```diff
 - Está pagina no incluye una guía de como usar ciertas herramientas, por lo que talvez necesites buscarlas por tu cuenta.
+```
+
+## `Inteligencias artificiales para creación de texturas`
+
+  - `IA101` ⁣ ⁣ ⁣⁣   [**DeepArt.io**](https://creativitywith.ai/deepartio/): Una plataforma en línea que utiliza una red neuronal para combinar estilos de arte y aplicarlos a tus fotos.
+  - `IA102` ⁣ ⁣ ⁣⁣   [**RunwayML**](https://runwayml.com/): Una plataforma en línea que ofrece una variedad de modelos de inteligencia artificial para la creación de imágenes y otras aplicaciones creativas.
+  - `IA103` ⁣ ⁣ ⁣⁣   [**Nvidia GauGAN**](https://www.nvidia.com/en-us/research/ai-playground/): Una herramienta de dibujo asistido por inteligencia artificial que utiliza algoritmos para transformar bocetos en paisajes realistas.
+  - `IA104` ⁣ ⁣ ⁣⁣   [**Artbreeder**](https://www.artbreeder.com/): Una herramienta en línea que utiliza redes neuronales para generar y combinar imágenes de diferentes estilos y temas.
+  - `IA105` ⁣ ⁣ ⁣⁣   [**DALL-E**](https://openai.com/product/dall-e-2): Un modelo de lenguaje de inteligencia artificial creado por OpenAI que puede generar imágenes a partir de descripciones de texto.
+  - `IA106` ⁣ ⁣ ⁣⁣   [**IBM Watson Visual Recognition**](https://www.ibm.com/se-en/cloud/watson-visual-recognition): Un servicio en la nube que utiliza inteligencia artificial para analizar imágenes y generar metadatos descriptivos.
+  - `IA107` ⁣ ⁣ ⁣⁣   [**Adobe Sensei**](https://www.adobe.com/): Una plataforma de inteligencia artificial integrada en la suite de herramientas creativas de Adobe que puede ayudar en la generación de imágenes y otras tareas.
+
+```diff
++ Muchas de estás inteligencias artificiales son gratuitas y de uso libre.
 ```
