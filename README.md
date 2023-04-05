@@ -12,42 +12,42 @@
 + Aquí debajo tendrás todos los atajos para acceder al contenido mostrado en está pagina.
 ```
 
-`A101.` **Serie de pasos para comenzar en Unreal Engine** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.](https://rip.omg.lol/#serie-de-pasos-para-comenzar-en-unreal-engine)
+`A101.` **Serie de pasos para comenzar en Unreal Engine** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.](https://ue5.rip.omg.lol/#serie-de-pasos-para-comenzar-en-unreal-engine)
 
-`A102.` **Atajos de teclado para Unreal Engine** | [Click izquierdo para abrir, click derecho copiar dirección para copiar. ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣⁣](https://rip.omg.lol/#atajos-de-teclado-para-unreal-engine)
+`A102.` **Atajos de teclado para Unreal Engine** | [Click izquierdo para abrir, click derecho copiar dirección para copiar. ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣⁣](https://ue5.rip.omg.lol/#atajos-de-teclado-para-unreal-engine)
 
-`A103.` **Recursos utíles** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ](https://rip.omg.lol/#recursos-ut%C3%ADles)
+`A103.` **Recursos utíles** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ](https://ue5.rip.omg.lol/#recursos-ut%C3%ADles)
 
-`A104.` **Géneros de juegos y ejemplos** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣ ⁣ ⁣](https://rip.omg.lol/#g%C3%A9neros-de-juegos-y-ejemplos)
+`A104.` **Géneros de juegos y ejemplos** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣ ⁣ ⁣](ue5.https://rip.omg.lol/#g%C3%A9neros-de-juegos-y-ejemplos)
 
-`A105.` **Otros motores graficos para videojuegos** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣  ⁣ ⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣](https://rip.omg.lol/#otros-motores-gr%C3%A1ficos-para-videojuegos)
+`A105.` **Otros motores graficos para videojuegos** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣  ⁣ ⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣](https://ue5.rip.omg.lol/#otros-motores-gr%C3%A1ficos-para-videojuegos)
 
 
-`A106.` **Consejos para desarrolladores** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣  ⁣ ⁣⁣ ⁣ ⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣  ⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣  ⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣⁣ ⁣ ⁣ ⁣ ⁣](https://rip.omg.lol/#consejos-para-desarrolladores)
+`A106.` **Consejos para desarrolladores** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣  ⁣ ⁣⁣ ⁣ ⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣  ⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣  ⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣⁣ ⁣ ⁣ ⁣ ⁣](https://ue5.rip.omg.lol/#consejos-para-desarrolladores)
 
-`A107.` **Programas de diseño para tu videojuego** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣⁣⁣⁣  ⁣ ⁣ ⁣ ⁣ ⁣⁣  ⁣⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣](https://rip.omg.lol/#programas-de-dise%C3%B1o-para-tu-videojuego)
+`A107.` **Programas de diseño para tu videojuego** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣⁣⁣⁣  ⁣ ⁣ ⁣ ⁣ ⁣⁣  ⁣⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣](https://ue5.rip.omg.lol/#programas-de-dise%C3%B1o-para-tu-videojuego)
 
-`A108.` **Lugares para encontrar y componer música** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣  ⁣  ⁣ ⁣ ⁣ ⁣⁣⁣⁣ ⁣ ⁣⁣⁣ ⁣⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣](https://rip.omg.lol/#lugares-para-encontrar-y-componer-m%C3%BAsica)
+`A108.` **Lugares para encontrar y componer música** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣  ⁣  ⁣ ⁣ ⁣ ⁣⁣⁣⁣ ⁣ ⁣⁣⁣ ⁣⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣](https://ue5.rip.omg.lol/#lugares-para-encontrar-y-componer-m%C3%BAsica)
 
-`A109.` **Documentales del desarrollo de videojuegos** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣  ⁣⁣ ⁣ ⁣ ⁣⁣⁣⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣](https://rip.omg.lol/#documentales-del-desarrollo-de-videojuegos)
+`A109.` **Documentales del desarrollo de videojuegos** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣  ⁣⁣ ⁣ ⁣ ⁣⁣⁣⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣](https://ue5.rip.omg.lol/#documentales-del-desarrollo-de-videojuegos)
 
-`A110.` **Datos interesantes sobre Unreal Engine 5** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣  ⁣⁣ ⁣⁣ ⁣  ⁣ ⁣⁣ ⁣  ⁣⁣ ⁣  ⁣⁣ ⁣  ⁣ ⁣⁣  ⁣⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣](https://rip.omg.lol/#datos-interesantes-sobre-unreal-engine-5)
+`A110.` **Datos interesantes sobre Unreal Engine 5** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣  ⁣⁣ ⁣⁣ ⁣  ⁣ ⁣⁣ ⁣  ⁣⁣ ⁣  ⁣⁣ ⁣  ⁣ ⁣⁣  ⁣⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣](https://ue5.rip.omg.lol/#datos-interesantes-sobre-unreal-engine-5)
 
-`A111.` **Licencias disponibles de Unreal Engine 5** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣⁣ ⁣⁣ ⁣   ⁣⁣ ⁣  ⁣  ⁣⁣ ⁣  ⁣ ⁣⁣  ⁣⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣](https://rip.omg.lol/#licencias-disponibles-de-unreal-engine-5)
+`A111.` **Licencias disponibles de Unreal Engine 5** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣⁣ ⁣⁣ ⁣   ⁣⁣ ⁣  ⁣  ⁣⁣ ⁣  ⁣ ⁣⁣  ⁣⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣](https://ue5.rip.omg.lol/#licencias-disponibles-de-unreal-engine-5)
 
-`A112.` **Herramientas utíles en Unreal Engine 5** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣⁣ ⁣ ⁣ ⁣⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣  ⁣⁣ ⁣ ⁣ ⁣ ⁣⁣ ⁣⁣ ⁣  ⁣  ⁣⁣ ⁣  ⁣ ⁣⁣  ⁣⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣](https://rip.omg.lol/#herramientas-utíles-en-unreal-engine-5)
+`A112.` **Herramientas utíles en Unreal Engine 5** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣⁣ ⁣ ⁣ ⁣⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣  ⁣⁣ ⁣ ⁣ ⁣ ⁣⁣ ⁣⁣ ⁣  ⁣  ⁣⁣ ⁣  ⁣ ⁣⁣  ⁣⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣](https://ue5.rip.omg.lol/#herramientas-utíles-en-unreal-engine-5)
 
-`A113.` **Inteligencias artificiales para creación de texturas** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣⁣⁣](https://rip.omg.lol/#inteligencias-artificiales-para-la-creaci%C3%B3n-de-texturas)
+`A113.` **Inteligencias artificiales para creación de texturas** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣⁣⁣](https://ue5.rip.omg.lol/#inteligencias-artificiales-para-la-creaci%C3%B3n-de-texturas)
 
-`A114.` **Videojuegos inventados por la IA para dar ideas** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣ ⁣⁣ ⁣⁣⁣](https://rip.omg.lol/#videojuegos-inventados-por-la-ia-para-dar-ideas)
+`A114.` **Videojuegos inventados por la IA para dar ideas** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣ ⁣⁣ ⁣⁣⁣](https://ue5.rip.omg.lol/#videojuegos-inventados-por-la-ia-para-dar-ideas)
 
-`A115.` **Lugares para promocionar tu videojuego** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣    ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣  ⁣⁣  ⁣ ⁣ ⁣⁣⁣](https://rip.omg.lol/#lugares-para-promocionar-tu-videojuego)
+`A115.` **Lugares para promocionar tu videojuego** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣    ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣  ⁣⁣  ⁣ ⁣ ⁣⁣⁣](https://ue5.rip.omg.lol/#lugares-para-promocionar-tu-videojuego)
 
-`A116.` **Lugares para conseguir descargas o ventas** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣  ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣  ⁣⁣  ⁣ ⁣ ⁣⁣⁣](https://rip.omg.lol/#lugares-para-conseguir-descargas-o-ventas)
+`A116.` **Lugares para conseguir descargas o ventas** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣  ⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣ ⁣  ⁣⁣  ⁣ ⁣ ⁣⁣⁣](https://ue5.rip.omg.lol/#lugares-para-conseguir-descargas-o-ventas)
 
-`A117.` **Videojuegos exitosos, su género y de que tratan** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣⁣⁣](https://rip.omg.lol/#videojuegos-exitosos-su-género-y-de-que-tratan)
+`A117.` **Videojuegos exitosos, su género y de que tratan** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣  ⁣ ⁣ ⁣⁣⁣](https://ue5.rip.omg.lol/#videojuegos-exitosos-su-género-y-de-que-tratan)
 
-`A118.` **Las compañias de videojuegos más famosas** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣ ⁣⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣⁣⁣](https://rip.omg.lol/#las-compa%C3%B1ias-de-videojuegos-mas-famosas)
+`A118.` **Las compañias de videojuegos más famosas** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣ ⁣⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣⁣⁣](https://ue5.rip.omg.lol/#las-compa%C3%B1ias-de-videojuegos-mas-famosas)
 
 ```diff
 - Aquí debajo de este mensaje se mostrara en forma de lista toda la información utíl que está pagina tiene para ofrecer.
