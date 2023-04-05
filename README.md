@@ -354,14 +354,23 @@
 ## `Datos interesantes sobre Unreal Engine 5`
 
   - `DI101` ⁣ ⁣ ⁣⁣   **La versión beta de Unreal Engine 5 se lanzó en julio de 2021.**
+
   - `DI102` ⁣ ⁣ ⁣⁣   **La tecnología de renderizado de Unreal Engine 5 se llama Nanite, que permite la renderización de geometría de alta calidad en tiempo real.**
+
   - `DI103` ⁣ ⁣ ⁣⁣   **Unreal Engine 5 admite la tecnología de iluminación global Lumen, que proporciona una iluminación dinámica en tiempo real.**
+
   - `DI104` ⁣ ⁣ ⁣⁣   **La nueva versión de Unreal Engine también presenta mejoras significativas en la herramienta de modelado de terreno.**
+
   - `DI105` ⁣ ⁣ ⁣⁣   **Unreal Engine 5 admite el trazado de rayos y ofrece una amplia gama de características y herramientas para trabajar con esta tecnología.**
+
   - `DI106` ⁣ ⁣ ⁣⁣   **La nueva versión de Unreal Engine presenta mejoras en el sistema de animación, incluida la captura de movimiento en tiempo real.**
+
   - `DI107` ⁣ ⁣ ⁣⁣   **Unreal Engine 5 admite la integración de captura facial de alta fidelidad.**
+
   - `DI108` ⁣ ⁣ ⁣⁣   **La nueva versión de Unreal Engine también presenta mejoras en la herramienta de programación visual Blueprint.**
+
   - `DI109` ⁣ ⁣ ⁣⁣   **Unreal Engine 5 es compatible con una amplia gama de plataformas, incluidas PC, consolas y dispositivos móviles.**
+
   - `DI110` ⁣ ⁣ ⁣⁣   **Unreal Engine 5 introduce una nueva característica llamada MetaHuman Creator, que permite a los desarrolladores crear personajes digitales de alta fidelidad en cuestión de minutos. MetaHuman Creator utiliza tecnología de captura de movimiento y aprendizaje automático para crear modelos 3D realistas y detallados de personas virtuales.**
 
 ```diff
@@ -383,24 +392,43 @@
 ## `Herramientas utíles en Unreal Engine 5`
 
   - `H101` ⁣ ⁣ ⁣⁣   **Utiliza el Blueprint Visual Scripting para crear lógica de juego sin necesidad de saber programación.**
+
   - `H102` ⁣ ⁣ ⁣⁣   **Aprovecha el Landscape Editor para crear terrenos detallados y realistas.**
+
   - `H103` ⁣ ⁣ ⁣⁣   **Usa el Material Editor para crear y editar materiales para texturizar objetos y superficies.**
+
   - `H104` ⁣ ⁣ ⁣⁣   **Utiliza el Cascade Particle Editor para crear y editar efectos de partículas, como fuego, humo y explosiones.**
+
   - `H105` ⁣ ⁣ ⁣⁣   **Aprovecha el Persona Animation Editor para crear y editar animaciones de personajes y objetos.**
+
   - `H106` ⁣ ⁣ ⁣⁣   **Utiliza el Level Sequencer para crear secuencias cinematográficas y de juego.**
+
   - `H107` ⁣ ⁣ ⁣⁣   **Usa el Editor de Matrices de Instancia para crear instancias de objetos y duplicarlos en diferentes lugares sin afectar el rendimiento.**
+
   - `H108` ⁣ ⁣ ⁣⁣   **Aprovecha el Physics Asset Editor para crear físicas precisas en los personajes y objetos.**
+
   - `H109` ⁣ ⁣ ⁣⁣   **Utiliza el Landscape Grass Tool para colocar y editar la vegetación en el terreno de manera eficiente.**
+
   - `H110` ⁣ ⁣ ⁣⁣   **Usa el Sound Cue Editor para crear y editar efectos de sonido y música.**
+
   - `H111` ⁣ ⁣ ⁣⁣   **Aprovecha el Niagara Particle Editor para crear efectos de partículas avanzados y personalizados.**
+
   - `H112` ⁣ ⁣ ⁣⁣   **Utiliza el Plugin Editor para crear y editar tus propios complementos y herramientas.**
+
   - `H113` ⁣ ⁣ ⁣⁣   **Usa el Unreal Motion Graphics (UMG) para crear interfaces de usuario personalizadas y animadas.**
+
   - `H114` ⁣ ⁣ ⁣⁣   **Aprovecha el Control Rig Editor para crear y animar personajes con control total sobre su esqueleto.**
+
   - `H115` ⁣ ⁣ ⁣⁣   **Utiliza el Visual Dataprep Editor para automatizar tareas repetitivas y procesar grandes cantidades de datos.**
+
   - `H116` ⁣ ⁣ ⁣⁣   **Usa el Virtual Production Tools para integrar en tiempo real actores y elementos reales con entornos y personajes virtuales.**
+
   - `H117` ⁣ ⁣ ⁣⁣   **Aprovecha el Ray Tracing para obtener iluminación y sombras más realistas.**
+
   - `H118` ⁣ ⁣ ⁣⁣   **Utiliza el AR Framework para crear aplicaciones y juegos de realidad aumentada.**
+
   - `H119` ⁣ ⁣ ⁣⁣   **Usa el VR Framework para crear aplicaciones y juegos de realidad virtual.**
+
   - `H120` ⁣ ⁣ ⁣⁣   **Aprovecha el Mobile Previewer para previsualizar tus proyectos en dispositivos móviles en tiempo real.**
 
 ```diff
@@ -410,11 +438,17 @@
 ## `Inteligencias artificiales para creación de texturas`
 
   - `IA101` ⁣ ⁣ ⁣⁣   [**DeepArt.io**](https://creativitywith.ai/deepartio/): Una plataforma en línea que utiliza una red neuronal para combinar estilos de arte y aplicarlos a tus fotos.
+
   - `IA102` ⁣ ⁣ ⁣⁣   [**RunwayML**](https://runwayml.com/): Una plataforma en línea que ofrece una variedad de modelos de inteligencia artificial para la creación de imágenes y otras aplicaciones creativas.
+
   - `IA103` ⁣ ⁣ ⁣⁣   [**Nvidia GauGAN**](https://www.nvidia.com/en-us/research/ai-playground/): Una herramienta de dibujo asistido por inteligencia artificial que utiliza algoritmos para transformar bocetos en paisajes realistas.
+
   - `IA104` ⁣ ⁣ ⁣⁣   [**Artbreeder**](https://www.artbreeder.com/): Una herramienta en línea que utiliza redes neuronales para generar y combinar imágenes de diferentes estilos y temas.
+
   - `IA105` ⁣ ⁣ ⁣⁣   [**DALL-E**](https://openai.com/product/dall-e-2): Un modelo de lenguaje de inteligencia artificial creado por OpenAI que puede generar imágenes a partir de descripciones de texto.
+
   - `IA106` ⁣ ⁣ ⁣⁣   [**IBM Watson Visual Recognition**](https://www.ibm.com/se-en/cloud/watson-visual-recognition): Un servicio en la nube que utiliza inteligencia artificial para analizar imágenes y generar metadatos descriptivos.
+
   - `IA107` ⁣ ⁣ ⁣⁣   [**Adobe Sensei**](https://www.adobe.com/): Una plataforma de inteligencia artificial integrada en la suite de herramientas creativas de Adobe que puede ayudar en la generación de imágenes y otras tareas.
 
 ```diff
@@ -422,15 +456,25 @@
 ```
 
 ## `Videojuegos inventados por la IA para dar ideas`
+
   - `V101` ⁣ ⁣ ⁣⁣   "**Chrono Crusade**": un RPG de fantasía que sigue la historia de un grupo de viajeros del tiempo que intentan salvar el universo de una amenaza malvada.
+
   - `V102` ⁣ ⁣ ⁣⁣   "**Starfall**": un juego de acción y aventuras de ciencia ficción en el que el jugador asume el papel de un cazador de recompensas en un universo de alta tecnología.
+
   - `V103` ⁣ ⁣ ⁣⁣   "**Dark Harvest**": un juego de estrategia en tiempo real de horror en el que el jugador debe construir una granja de cultivo de la muerte para combatir una plaga de monstruos.
+
   - `V104` ⁣ ⁣ ⁣⁣   "**Skyward**": un juego de aventuras en tercera persona de ciencia ficción que sigue a un piloto y su nave espacial mientras exploran nuevos mundos y combaten fuerzas alienígenas.
+
   - `V105` ⁣ ⁣ ⁣⁣   "**Arcane Chronicles**": un RPG de acción ambientado en un mundo de fantasía en el que el jugador asume el papel de un hechicero que debe reunir artefactos mágicos para detener la llegada del mal absoluto.
+
   - `V106` ⁣ ⁣ ⁣⁣   "**Last Horizon**": un juego de estrategia de supervivencia en un mundo post-apocalíptico en el que el jugador debe liderar a un grupo de sobrevivientes en la construcción de un nuevo hogar.
+
   - `V107` ⁣ ⁣ ⁣⁣   "**Empire of Shadows**": un juego de rol de fantasía oscura en el que el jugador asume el papel de un líder de una facción de asesinos que lucha por el control de un imperio en decadencia.
+
   - `V108` ⁣ ⁣ ⁣⁣   "**Wasteland Warriors**": un juego de acción en primera persona en un mundo post-apocalíptico en el que el jugador asume el papel de un cazador de recompensas que debe sobrevivir a una serie de misiones peligrosas.
+
   - `V109` ⁣ ⁣ ⁣⁣   "**City of Nightmares**": un juego de aventuras en tercera persona de horror en el que el jugador asume el papel de un investigador privado que debe resolver una serie de casos sobrenaturales en una ciudad embrujada.
+
   - `V110` ⁣ ⁣ ⁣⁣   "**Dragon's Destiny**": un RPG de fantasía que sigue la historia de un joven héroe que debe luchar contra una maldición de dragón y descubrir la verdad detrás del destino de su familia.
 
 
@@ -441,14 +485,22 @@
 ## `Lugares para promocionar tu videojuego`
 
   - `PV101` ⁣ ⁣ ⁣⁣   [**Steam**](https://store.steampowered.com/): Es la plataforma de distribución de videojuegos más grande del mundo, por lo que es un lugar ideal para lanzar y promocionar tu juego.
+
   - `PV102` ⁣ ⁣ ⁣⁣   [**Reddit**](https://www.reddit.com/): Es una comunidad en línea con millones de usuarios activos que discuten sobre una amplia variedad de temas, incluyendo videojuegos. Puedes unirte a subreddits de juegos específicos y compartir información sobre tu juego.
+
   - `PV103` ⁣ ⁣ ⁣⁣   [**Twitch**](https://www.twitch.tv/): Es una plataforma de streaming en vivo de videojuegos que se ha convertido en una forma popular de promocionar nuevos títulos.
+
   - `PV104` ⁣ ⁣ ⁣⁣   [**YouTube**](https://www.youtube.com/): Es una plataforma de videos en línea donde los desarrolladores pueden compartir trailers y gameplays de sus juegos.
+
   - `PV105` ⁣ ⁣ ⁣⁣   [**Discord**](https://discord.com/): Es una plataforma de chat en línea muy popular entre los jugadores, que también puede utilizarse para promocionar juegos y unirse a comunidades de juegos específicos.
-  - `PV106` ⁣ ⁣ ⁣⁣   [**Twitter**](https://twitter.com/): Es una red social que permite a los desarrolladores de juegos interactuar directamente con los fans, compartir actualizaciones y anunciar lanzamientos.
+
+
   - `PV107` ⁣ ⁣ ⁣⁣   [**Facebook**](https://www.facebook.com/): Es una plataforma de redes sociales donde los desarrolladores pueden crear páginas de juegos y anunciar nuevos lanzamientos y actualizaciones.
+
   - `PV108` ⁣ ⁣ ⁣⁣   [**Instagram**](https://www.instagram.com/): Es una red social de fotos y videos que se utiliza para promocionar videojuegos y mostrar imágenes de arte y gameplay.
+
   - `PV109` ⁣ ⁣ ⁣⁣   [**IndieDB**](https://www.indiedb.com/): Es una plataforma en línea centrada en juegos independientes, donde los desarrolladores pueden compartir información y promocionar sus juegos.
+
   - `PV110` ⁣ ⁣ ⁣⁣   [**Game Jolt**](https://gamejolt.com/): Es una plataforma de distribución de juegos independientes donde los desarrolladores pueden subir y promocionar sus juegos de forma gratuita.
 
 ```diff
@@ -458,13 +510,21 @@
 ## `Lugares para conseguir descargas o ventas`
 
   - `DV101` ⁣ ⁣ ⁣⁣   [**App Store**](https://www.apple.com/app-store/): Si estás desarrollando un juego para dispositivos móviles iOS, la App Store es la tienda oficial de aplicaciones de Apple y te proporciona una audiencia muy amplia.
+
   - `DV102` ⁣ ⁣ ⁣⁣   [**Google Play**](https://play.google.com/store/games): Si estás desarrollando un juego para dispositivos móviles Android, Google Play es la tienda oficial de aplicaciones de Google y te permite llegar a una audiencia global de usuarios de Android.
+
   - `DV103` ⁣ ⁣ ⁣⁣   [**Epic Games Store**](https://store.epicgames.com/es-MX/): Es una tienda de videojuegos en línea que ha ganado popularidad en los últimos años, especialmente después de ofrecer juegos gratuitos a sus usuarios.
+
   - `DV104` ⁣ ⁣ ⁣⁣   [**GOG**](https://www.gog.com/): Es una plataforma en línea de distribución de videojuegos sin DRM que se centra en juegos clásicos y retro.
+
   - `DV105` ⁣ ⁣ ⁣⁣   [**Humble Bundle**](https://www.humblebundle.com/): Es una plataforma que ofrece paquetes de juegos a precios reducidos y también te permite vender tu juego en su tienda en línea.
+
   - `DV106` ⁣ ⁣ ⁣⁣   [**itch.io**](https://itch.io/): Es una plataforma de distribución de videojuegos que se centra en juegos independientes y ofrece una amplia audiencia de jugadores indie.
+
   - `DV107` ⁣ ⁣ ⁣⁣   [**Microsoft Store**](https://www.microsoft.com/): Si estás desarrollando un juego para Xbox o Windows, la tienda oficial de Microsoft te ofrece una audiencia global de usuarios de estas plataformas.
+
   - `DV108` ⁣ ⁣ ⁣⁣   [**Nintendo eShop**](https://www.nintendo.es/): Si estás desarrollando un juego para Nintendo Switch, la tienda oficial de Nintendo te ofrece una audiencia global de usuarios de esta plataforma.
+
   - `DV109` ⁣ ⁣ ⁣⁣   [**PlayStation Store**](https://store.playstation.com/): Si estás desarrollando un juego para PlayStation, la tienda oficial de Sony te ofrece una audiencia global de usuarios de esta plataforma.
 
 ```diff
@@ -474,16 +534,46 @@
 ## `Videojuegos exitosos, su género y de que tratan`
 
   - `VE101` ⁣ ⁣ ⁣⁣   **Fortnite**: Es un juego de acción en tercera persona y battle royale. Los jugadores luchan por ser el último superviviente en una isla, construyendo fortificaciones y recolectando recursos para mejorar su posición.
+
   - `VE102` ⁣ ⁣ ⁣⁣   **Minecraft**: Es un juego de aventura y construcción en el que los jugadores pueden construir y explorar mundos infinitos generados por procedimientos. Los jugadores también pueden enfrentar desafíos y sobrevivir a enemigos.
+
   - `VE103` ⁣ ⁣ ⁣⁣   **Grand Theft Auto V**: Es un juego de acción en tercera persona y mundo abierto. Los jugadores pueden explorar la ciudad de Los Santos y sus alrededores, realizar misiones, participar en carreras y luchar contra enemigos.
+
   - `VE104` ⁣ ⁣ ⁣⁣   **Call of Duty**: Modern Warfare: Es un juego de disparos en primera persona. Los jugadores luchan contra enemigos en misiones de campaña para un solo jugador, y también pueden competir en línea en modos multijugador.
+
   - `VE105` ⁣ ⁣ ⁣⁣   **League of Legends**: Es un juego de estrategia y batalla de arena en línea. Los jugadores controlan a un campeón y luchan contra el equipo contrario para destruir su base.
+
   - `VE106` ⁣ ⁣ ⁣⁣   **Valorant**: Es un juego de disparos en primera persona con elementos de estrategia. Los jugadores forman equipos y luchan en partidas con objetivos específicos.
+
   - `VE107` ⁣ ⁣ ⁣⁣   **Among Us**: Es un juego multijugador en línea en el que los jugadores trabajan juntos para reparar una nave espacial mientras intentan descubrir al impostor que está saboteando el trabajo en equipo.
+
   - `VE108` ⁣ ⁣ ⁣⁣   **FIFA 22**: Es un juego de simulación de fútbol en el que los jugadores pueden controlar a su equipo favorito y competir en partidos en línea o fuera de línea.
+
   - `VE109` ⁣ ⁣ ⁣⁣   **Assassin's Creed Valhalla**: Es un juego de acción y aventura en el que los jugadores controlan a Eivor, un vikingo que lucha contra los enemigos y explora el mundo del juego ambientado en la Inglaterra del siglo IX.
+
   - `VE110` ⁣ ⁣ ⁣⁣   **Cyberpunk 2077**: Es un juego de rol de acción en el que los jugadores controlan a V, un mercenario que lucha en un futuro oscuro y peligroso de Night City, California. Los jugadores pueden personalizar a V y tomar decisiones que afectan el resultado del juego.
 
 ```diff
 + No está garantizado que tu juego triunfe si copias a estos juegos, esta pensado para darte una idea de los géneros de moda.
 ```
+
+
+1. Nintendo: Fundada en 1889 por Fusajiro Yamauchi en Japón como una compañía de cartas. En la década de 1970, la compañía comenzó a explorar la industria de los videojuegos, lanzando su primera consola de videojuegos en 1983.
+
+2. Sony Interactive Entertainment: Fundada en 1993 como una subsidiaria de Sony Corporation en Japón. La compañía lanzó su primera consola de videojuegos, la PlayStation, en 1994.
+
+3. Microsoft Corporation: Fundada en 1975 por Bill Gates y Paul Allen en Estados Unidos como una compañía de software. En 2001, Microsoft lanzó su primera consola de videojuegos, la Xbox.
+
+4. Electronic Arts: Fundada en 1982 por Trip Hawkins en Estados Unidos como una compañía de desarrollo de software. En 1983, la compañía comenzó a centrarse en los videojuegos y desde entonces ha producido algunos de los juegos más populares de la historia.
+
+5. Activision Blizzard: Fundada en 2008 como resultado de la fusión entre Activision y Vivendi Games. La compañía es responsable de algunas de las franquicias de videojuegos más exitosas, incluyendo Call of Duty, World of Warcraft y Diablo.
+
+6. Ubisoft: Fundada en 1986 por cinco hermanos franceses. La compañía comenzó a centrarse en los videojuegos en la década de 1990 y ha producido algunos de los juegos más populares del mundo, incluyendo Assassin's Creed, Far Cry y Rainbow Six.
+
+7. Take-Two Interactive Software: Fundada en 1993 en Estados Unidos como una compañía de distribución de software. La compañía se ha expandido en la industria de los videojuegos y es responsable de algunos de los juegos más populares, incluyendo Grand Theft Auto y Red Dead Redemption.
+
+8. Epic Games: Fundada en 1991 en Estados Unidos como Potomac Computer Systems. La compañía es responsable del motor de juego Unreal Engine y del éxito mundial Fortnite.
+
+9. Tencent Holdings Limited: Fundada en 1998 en China como una compañía de servicios de Internet. La compañía se ha expandido en la industria de los videojuegos y es propietaria de participaciones en algunas de las empresas de videojuegos más grandes del mundo, incluyendo Epic Games, Riot Games y Activision Blizzard.
+
+10. Square Enix Holdings Co., Ltd.: Fundada en 1975 en Japón como una compañía de software de computadora. La compañía se ha expandido en la industria de los videojuegos y es responsable de algunas de las franquicias más populares, incluyendo Final Fantasy y Kingdom Hearts.
