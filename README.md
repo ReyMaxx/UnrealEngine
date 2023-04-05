@@ -35,6 +35,8 @@
 
 `A111.` **Licencias disponibles de Unreal Engine 5** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣⁣ ⁣⁣ ⁣  ⁣ ⁣ ⁣ ⁣⁣ ⁣⁣ ⁣  ⁣  ⁣⁣ ⁣  ⁣ ⁣⁣  ⁣⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣](https://rip.omg.lol/#licencias-disponibles-de-unreal-engine-5)
 
+`A112.` **Herramientas utíles en Unreal Engine 5** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣⁣ ⁣ ⁣ ⁣⁣ ⁣ ⁣ ⁣ ⁣  ⁣ ⁣  ⁣⁣ ⁣⁣ ⁣  ⁣ ⁣ ⁣ ⁣⁣ ⁣⁣ ⁣  ⁣  ⁣⁣ ⁣  ⁣ ⁣⁣  ⁣⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣](https://rip.omg.lol/#herramientas-utíles-en-unreal-engine-5)
+
 ```diff
 - Aquí debajo de este mensaje se mostrara en forma de lista toda la información utíl que está pagina tiene para ofrecer.
 ```
@@ -366,4 +368,31 @@
 
 ```diff
 - Los precios pueden variar o no dependiendo en que parte del mundo estes ubicado, los precios pueden cambiar.
+```
+
+## `Herramientas utíles en Unreal Engine 5`
+
+  - `H101` ⁣ ⁣ ⁣⁣   **Utiliza el Blueprint Visual Scripting para crear lógica de juego sin necesidad de saber programación.**
+  - `H102` ⁣ ⁣ ⁣⁣   **Aprovecha el Landscape Editor para crear terrenos detallados y realistas.**
+  - `H103` ⁣ ⁣ ⁣⁣   **Usa el Material Editor para crear y editar materiales para texturizar objetos y superficies.**
+  - `H104` ⁣ ⁣ ⁣⁣   **Utiliza el Cascade Particle Editor para crear y editar efectos de partículas, como fuego, humo y explosiones.**
+  - `H105` ⁣ ⁣ ⁣⁣   **Aprovecha el Persona Animation Editor para crear y editar animaciones de personajes y objetos.**
+  - `H106` ⁣ ⁣ ⁣⁣   **Utiliza el Level Sequencer para crear secuencias cinematográficas y de juego.**
+  - `H107` ⁣ ⁣ ⁣⁣   **Usa el Editor de Matrices de Instancia para crear instancias de objetos y duplicarlos en diferentes lugares sin afectar el rendimiento.**
+  - `H108` ⁣ ⁣ ⁣⁣   **Aprovecha el Physics Asset Editor para crear físicas precisas en los personajes y objetos.**
+  - `H109` ⁣ ⁣ ⁣⁣   **Utiliza el Landscape Grass Tool para colocar y editar la vegetación en el terreno de manera eficiente.**
+  - `H110` ⁣ ⁣ ⁣⁣   **Usa el Sound Cue Editor para crear y editar efectos de sonido y música.**
+  - `H111` ⁣ ⁣ ⁣⁣   **Aprovecha el Niagara Particle Editor para crear efectos de partículas avanzados y personalizados.**
+  - `H112` ⁣ ⁣ ⁣⁣   **Utiliza el Plugin Editor para crear y editar tus propios complementos y herramientas.**
+  - `H113` ⁣ ⁣ ⁣⁣   **Usa el Unreal Motion Graphics (UMG) para crear interfaces de usuario personalizadas y animadas.**
+  - `H114` ⁣ ⁣ ⁣⁣   **Aprovecha el Control Rig Editor para crear y animar personajes con control total sobre su esqueleto.**
+  - `H115` ⁣ ⁣ ⁣⁣   **Utiliza el Visual Dataprep Editor para automatizar tareas repetitivas y procesar grandes cantidades de datos.**
+  - `H116` ⁣ ⁣ ⁣⁣   **Usa el Virtual Production Tools para integrar en tiempo real actores y elementos reales con entornos y personajes virtuales.**
+  - `H117` ⁣ ⁣ ⁣⁣   **Aprovecha el Ray Tracing para obtener iluminación y sombras más realistas.**
+  - `H118` ⁣ ⁣ ⁣⁣   **Utiliza el AR Framework para crear aplicaciones y juegos de realidad aumentada.**
+  - `H119` ⁣ ⁣ ⁣⁣   **Usa el VR Framework para crear aplicaciones y juegos de realidad virtual.**
+  - `H120` ⁣ ⁣ ⁣⁣   **Aprovecha el Mobile Previewer para previsualizar tus proyectos en dispositivos móviles en tiempo real.**
+
+```diff
+- Está pagina no incluye una guía de como usar ciertas herramientas, por lo que talvez necesites buscarlas por tu cuenta.
 ```
