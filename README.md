@@ -580,14 +580,14 @@
   - `CV109` ⁣ ⁣ ⁣⁣   **Tencent Holdings Limited**: Fundada en 1998 en China como una compañía de servicios de Internet. La compañía se ha expandido en la industria de los videojuegos y es propietaria de participaciones en algunas de las empresas de videojuegos más grandes del mundo, incluyendo Epic Games, Riot Games y Activision Blizzard.
 
   - `CV110` ⁣ ⁣ ⁣⁣   **Square Enix Holdings Co., Ltd.**: Fundada en 1975 en Japón como una compañía de software de computadora. La compañía se ha expandido en la industria de los videojuegos y es responsable de algunas de las franquicias más populares, incluyendo Final Fantasy y Kingdom Hearts.
-
+⁣ ⁣ ⁣ ⁣
+⁣ ⁣ ⁣ ⁣
 ```diff
 Este es el final de nuestra biblioteca, dentro de no mucho tiempo será actualizada para recibir mas contenido.
 ```
 
-`A000.` **Volver arriba de la pagina** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.](https://rip.omg.lol/#unreal-engine-y-el-desarrollo-de-videojuegos)
-
+`A000.` **Volver arriba de toda la pagina** | **https://rip.omg.lol** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.](https://rip.omg.lol/#unreal-engine-y-el-desarrollo-de-videojuegos)
 
 ```diff
-+  ⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣ ⁣⁣  ⁣ ⁣⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣ ⁣⁣    ⁣ ⁣⁣   ⁣⁣  ⁣ ⁣ ⁣¡GRACIAS POR VISITAR! ⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣ ⁣⁣    ⁣⁣  ⁣  ⁣ ⁣   ⁣ ⁣  ⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣ ⁣⁣   ⁣ ⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣ ⁣⁣⁣⁣  ⁣ ⁣ ⁣ ⁣⁣  ⁣ 
+  ⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣ ⁣⁣  ⁣ ⁣⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣ ⁣⁣    ⁣ ⁣⁣   ⁣⁣  ⁣ ⁣ ⁣¡GRACIAS POR VISITAR! ⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣ ⁣⁣    ⁣⁣  ⁣  ⁣ ⁣   ⁣ ⁣  ⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣ ⁣⁣   ⁣ ⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣ ⁣⁣⁣⁣  ⁣ ⁣ ⁣ ⁣⁣  ⁣ 
 ```
