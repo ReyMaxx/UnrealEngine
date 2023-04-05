@@ -585,7 +585,7 @@
 Este es el final de nuestra biblioteca, dentro de no mucho tiempo será actualizada para recibir mas contenido.
 ```
 
-`A000.` **Volver arriba de toda la pagina** | **https://rip.omg.lol** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣  ⁣ ⁣⁣](https://ue5.rip.omg.lol/#unreal-engine-y-el-desarrollo-de-videojuegos)
+`A000.` **Volver arriba de toda la pagina** | **https://ue.5rip.omg.lol** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣](https://ue5.rip.omg.lol/#unreal-engine-y-el-desarrollo-de-videojuegos)
 
 ```diff
   ⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣ ⁣⁣  ⁣ ⁣⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣ ⁣⁣    ⁣ ⁣⁣   ⁣⁣  ⁣ ⁣ ⁣¡GRACIAS POR VISITAR! ⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣ ⁣⁣    ⁣⁣  ⁣  ⁣ ⁣   ⁣ ⁣  ⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣ ⁣⁣   ⁣ ⁣ ⁣ ⁣⁣  ⁣ ⁣ ⁣ ⁣⁣⁣⁣  ⁣ ⁣ ⁣ ⁣⁣  ⁣ 
