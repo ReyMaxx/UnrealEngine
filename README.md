@@ -413,3 +413,20 @@
 ```diff
 + Muchas de estás inteligencias artificiales son gratuitas y de uso libre.
 ```
+
+## `Videojuegos inventados por la IA para dar ideas`
+  - `V101` ⁣ ⁣ ⁣⁣   "**Chrono Crusade**": un RPG de fantasía que sigue la historia de un grupo de viajeros del tiempo que intentan salvar el universo de una amenaza malvada.
+  - `V102` ⁣ ⁣ ⁣⁣   "**Starfall**": un juego de acción y aventuras de ciencia ficción en el que el jugador asume el papel de un cazador de recompensas en un universo de alta tecnología.
+  - `V103` ⁣ ⁣ ⁣⁣   "**Dark Harvest**": un juego de estrategia en tiempo real de horror en el que el jugador debe construir una granja de cultivo de la muerte para combatir una plaga de monstruos.
+  - `V104` ⁣ ⁣ ⁣⁣   "**Skyward**": un juego de aventuras en tercera persona de ciencia ficción que sigue a un piloto y su nave espacial mientras exploran nuevos mundos y combaten fuerzas alienígenas.
+  - `V105` ⁣ ⁣ ⁣⁣   "**Arcane Chronicles**": un RPG de acción ambientado en un mundo de fantasía en el que el jugador asume el papel de un hechicero que debe reunir artefactos mágicos para detener la llegada del mal absoluto.
+  - `V106` ⁣ ⁣ ⁣⁣   "**Last Horizon**": un juego de estrategia de supervivencia en un mundo post-apocalíptico en el que el jugador debe liderar a un grupo de sobrevivientes en la construcción de un nuevo hogar.
+  - `V107` ⁣ ⁣ ⁣⁣   "**Empire of Shadows**": un juego de rol de fantasía oscura en el que el jugador asume el papel de un líder de una facción de asesinos que lucha por el control de un imperio en decadencia.
+  - `V108` ⁣ ⁣ ⁣⁣   "**Wasteland Warriors**": un juego de acción en primera persona en un mundo post-apocalíptico en el que el jugador asume el papel de un cazador de recompensas que debe sobrevivir a una serie de misiones peligrosas.
+  - `V109` ⁣ ⁣ ⁣⁣   "**City of Nightmares**": un juego de aventuras en tercera persona de horror en el que el jugador asume el papel de un investigador privado que debe resolver una serie de casos sobrenaturales en una ciudad embrujada.
+  - `V110` ⁣ ⁣ ⁣⁣   "**Dragon's Destiny**": un RPG de fantasía que sigue la historia de un joven héroe que debe luchar contra una maldición de dragón y descubrir la verdad detrás del destino de su familia.
+
+
+```diff
++ Estos videojuegos no existen, cualquier parecido con la realidad es mera coincidencia.
+```
