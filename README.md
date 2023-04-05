@@ -557,23 +557,24 @@
 + No está garantizado que tu juego triunfe si copias a estos juegos, esta pensado para darte una idea de los géneros de moda.
 ```
 
+## `Algunas de las compañias de videojuegos mas famosas`
 
-1. Nintendo: Fundada en 1889 por Fusajiro Yamauchi en Japón como una compañía de cartas. En la década de 1970, la compañía comenzó a explorar la industria de los videojuegos, lanzando su primera consola de videojuegos en 1983.
+  - `CV101` ⁣ ⁣ ⁣⁣   **Nintendo**: Fundada en 1889 por Fusajiro Yamauchi en Japón como una compañía de cartas. En la década de 1970, la compañía comenzó a explorar la industria de los videojuegos, lanzando su primera consola de videojuegos en 1983.
 
-2. Sony Interactive Entertainment: Fundada en 1993 como una subsidiaria de Sony Corporation en Japón. La compañía lanzó su primera consola de videojuegos, la PlayStation, en 1994.
+  - `CV102` ⁣ ⁣ ⁣⁣   **Sony Interactive Entertainment**: Fundada en 1993 como una subsidiaria de Sony Corporation en Japón. La compañía lanzó su primera consola de videojuegos, la PlayStation, en 1994.
 
-3. Microsoft Corporation: Fundada en 1975 por Bill Gates y Paul Allen en Estados Unidos como una compañía de software. En 2001, Microsoft lanzó su primera consola de videojuegos, la Xbox.
+  - `CV103` ⁣ ⁣ ⁣⁣   **Microsoft Corporation**: Fundada en 1975 por Bill Gates y Paul Allen en Estados Unidos como una compañía de software. En 2001, Microsoft lanzó su primera consola de videojuegos, la Xbox.
 
-4. Electronic Arts: Fundada en 1982 por Trip Hawkins en Estados Unidos como una compañía de desarrollo de software. En 1983, la compañía comenzó a centrarse en los videojuegos y desde entonces ha producido algunos de los juegos más populares de la historia.
+  - `CV104` ⁣ ⁣ ⁣⁣   **Electronic Arts**: Fundada en 1982 por Trip Hawkins en Estados Unidos como una compañía de desarrollo de software. En 1983, la compañía comenzó a centrarse en los videojuegos y desde entonces ha producido algunos de los juegos más populares de la historia.
 
-5. Activision Blizzard: Fundada en 2008 como resultado de la fusión entre Activision y Vivendi Games. La compañía es responsable de algunas de las franquicias de videojuegos más exitosas, incluyendo Call of Duty, World of Warcraft y Diablo.
+  - `CV105` ⁣ ⁣ ⁣⁣   **Activision Blizzard**: Fundada en 2008 como resultado de la fusión entre Activision y Vivendi Games. La compañía es responsable de algunas de las franquicias de videojuegos más exitosas, incluyendo Call of Duty, World of Warcraft y Diablo.
 
-6. Ubisoft: Fundada en 1986 por cinco hermanos franceses. La compañía comenzó a centrarse en los videojuegos en la década de 1990 y ha producido algunos de los juegos más populares del mundo, incluyendo Assassin's Creed, Far Cry y Rainbow Six.
+  - `CV106` ⁣ ⁣ ⁣⁣   **Ubisoft**: Fundada en 1986 por cinco hermanos franceses. La compañía comenzó a centrarse en los videojuegos en la década de 1990 y ha producido algunos de los juegos más populares del mundo, incluyendo Assassin's Creed, Far Cry y Rainbow Six.
 
-7. Take-Two Interactive Software: Fundada en 1993 en Estados Unidos como una compañía de distribución de software. La compañía se ha expandido en la industria de los videojuegos y es responsable de algunos de los juegos más populares, incluyendo Grand Theft Auto y Red Dead Redemption.
+  - `CV107` ⁣ ⁣ ⁣⁣   **Take-Two Interactive Software**: Fundada en 1993 en Estados Unidos como una compañía de distribución de software. La compañía se ha expandido en la industria de los videojuegos y es responsable de algunos de los juegos más populares, incluyendo Grand Theft Auto y Red Dead Redemption.
 
-8. Epic Games: Fundada en 1991 en Estados Unidos como Potomac Computer Systems. La compañía es responsable del motor de juego Unreal Engine y del éxito mundial Fortnite.
+  - `CV108` ⁣ ⁣ ⁣⁣   **Epic Games**: Fundada en 1991 en Estados Unidos como Potomac Computer Systems. La compañía es responsable del motor de juego Unreal Engine y del éxito mundial Fortnite.
 
-9. Tencent Holdings Limited: Fundada en 1998 en China como una compañía de servicios de Internet. La compañía se ha expandido en la industria de los videojuegos y es propietaria de participaciones en algunas de las empresas de videojuegos más grandes del mundo, incluyendo Epic Games, Riot Games y Activision Blizzard.
+  - `CV109` ⁣ ⁣ ⁣⁣   **Tencent Holdings Limited**: Fundada en 1998 en China como una compañía de servicios de Internet. La compañía se ha expandido en la industria de los videojuegos y es propietaria de participaciones en algunas de las empresas de videojuegos más grandes del mundo, incluyendo Epic Games, Riot Games y Activision Blizzard.
 
-10. Square Enix Holdings Co., Ltd.: Fundada en 1975 en Japón como una compañía de software de computadora. La compañía se ha expandido en la industria de los videojuegos y es responsable de algunas de las franquicias más populares, incluyendo Final Fantasy y Kingdom Hearts.
+  - `CV110` ⁣ ⁣ ⁣⁣   **Square Enix Holdings Co., Ltd.**: Fundada en 1975 en Japón como una compañía de software de computadora. La compañía se ha expandido en la industria de los videojuegos y es responsable de algunas de las franquicias más populares, incluyendo Final Fantasy y Kingdom Hearts.
