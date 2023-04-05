@@ -33,6 +33,8 @@
 
 `A110.` **Datos interesantes sobre Unreal Engine 5** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣ ⁣ ⁣  ⁣⁣ ⁣⁣ ⁣  ⁣ ⁣⁣ ⁣  ⁣⁣ ⁣  ⁣⁣ ⁣  ⁣ ⁣⁣  ⁣⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣](https://rip.omg.lol/#datos-interesantes-sobre-unreal-engine-5)
 
+`A111.` **Licencias disponibles de Unreal Engine 5** | [Click izquierdo para abrir, click derecho copiar dirección para copiar.⁣ ⁣⁣ ⁣ ⁣ ⁣ ⁣ ⁣  ⁣⁣ ⁣⁣ ⁣  ⁣ ⁣ ⁣ ⁣⁣ ⁣⁣ ⁣  ⁣  ⁣⁣ ⁣  ⁣ ⁣⁣  ⁣⁣ ⁣ ⁣  ⁣ ⁣ ⁣ ⁣](https://rip.omg.lol/#licencias-disponibles-de-unreal-engine-5)
+
 ```diff
 - Aquí debajo de este mensaje se mostrara en forma de lista toda la información utíl que está pagina tiene para ofrecer.
 ```
@@ -352,4 +354,16 @@
 
 ```diff
 + Algunos de estos datos interesantes sobre Unreal Engine 5 pueden serte utíles más adelante para muchas cosas.
+```
+
+## `Licencias disponibles de Unreal Engine 5`
+
+  - `L101` ⁣ ⁣ ⁣⁣   **Licencia de uso personal (Personal Use License): es gratuita y se puede utilizar para fines no comerciales y proyectos personales. No se puede utilizar para proyectos comerciales o para obtener ganancias.**
+
+  - `L102` ⁣ ⁣ ⁣⁣   **Licencia de desarrollador (Developer License): se puede obtener mediante el pago de una tarifa mensual de $19 USD, que da acceso completo a las características de Unreal Engine 5. Esta licencia se puede utilizar para proyectos comerciales, pero se requiere el pago de una regalía del 5% sobre los ingresos brutos obtenidos por el proyecto.**
+
+  - `L103` ⁣ ⁣ ⁣⁣   **Licencia personalizada (Custom License): esta licencia se puede negociar directamente con Epic Games y ofrece opciones personalizadas para proyectos comerciales y no comerciales.**
+
+```diff
+- Los precios pueden variar o no dependiendo en que parte del mundo estes ubicado, los precios pueden cambiar.
 ```
